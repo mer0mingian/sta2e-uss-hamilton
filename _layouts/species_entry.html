@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
+<head>
+    <title>{% if page.title %}{{ page.title }}{% else %}Species Entry{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/lcars-ultra-picard.css">
+    <script src="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/jquery-3-7-0.min.js"></script>
+    <!-- Custom CSS can be added in the page front matter -->
+</head>
+<body id="page--top">
+    <div class="wrap-everything">
+        <section id="column-1">
+            <div class="lcars-frame">
+                <div class="frame-col-1">
+                    <div class="frame-col-1-cell-a"></div>
+                    <div class="frame-col-1-cell-b"></div>
+                    <div class="frame-col-1-cell-c"></div>
+                </div>
+                <div class="frame-col-2"> </div>
+                <div class="frame-col-3 display-vertical">
+                    <div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div>
+                </div>
+                <div class="frame-col-4"> </div>
+                <div class="frame-col-5">
+                    <div class="frame-col-5-cell-a"></div>
+                    <div class="frame-col-5-cell-b"></div>
+                    <div class="frame-col-5-cell-c"></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="column-3">
+            <div class="top-wrapper">
+                <div class="top-display">
+                    <div class="top-display-left">
+                        <nav id="primary-nav">
+                            <a href="{% if page.back_link %}{{ page.back_link }}{% else %}../../ship_database.html{% endif %}">HAUPTMENÜ</a>
+                            <a href="">SUCHE</a>
+                            <a href="">ARCHIV</a>
+                        </nav>
+                        <div class="chunk"> </div>
+                        <div class="panel-wrapper">
+                            <div class="panel-1">{% if page.panel_id %}{{ page.panel_id }}{% else %}SF-557{% endif %}</div>
+                        </div>
+                    </div>
+                    <div class="top-display-right">
+                        <div class="top-display-content">
+                            <div class="top-arch-1">
+                                <div class="top-arch-2">
+                                    <div class="top-arch-content">
+                                        <img src="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/sfcmd.png" class="sfc">
+                                        <div class="lcars-heading">{% if page.heading %}{{ page.heading }}{% else %}STERNENFLOTTEN XENOBIOLOGISCHER BERICHT{% endif %}</div>
+                                        <div class="lcars-access">
+                                            Autorisierungscode <span class="blink medium-dark-blue">akzeptiert</span>
+                                        </div>
+                                    </div>
+                                    <div class="top-arch-panel-1">
+                                    </div>
+                                    <div class="top-arch-panel-2">
+                                        23<span class="hop">-</span>09
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="arch-bottom">
+                            <div class="arch-base"> </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="top-display-bottom">
+                    <div class="bar-elbow"></div>
+                    <div class="bar-1"></div>
+                    <div class="bar-2"></div>
+                    <div class="bar-3"></div>
+                    <div class="bar-4"></div>
+                    <div class="bar-5"></div>
+                </div>
+            </div>
+
+            <div class="wrap">
+                <div class="scroll-top"><a href="#page--top"><span class="hop">Seite</span> Nach Oben</a></div>
+                <div class="left-frame">
+                    <div>
+                        <div class="panel-3">{% if page.panel_3 %}{{ page.panel_3 }}{% else %}XB<span class="hop">-111968</span>{% endif %}</div>
+                        <nav id="secondary-nav">
+                            {% if page.secondary_nav %}
+                                {% for item in page.secondary_nav %}
+                                    <a href="{{ item.link }}">{{ item.text }}</a>
+                                {% endfor %}
+                            {% else %}
+                                <a href="#xenobiologie">XENOBIOLOGIE</a>
+                                <a href="#technologie">TECHNOLOGIE</a>
+                                <a href="#kultur">KULTUR</a>
+                            {% endif %}
+                        </nav>
+                        <div class="panel-4">{% if page.panel_4 %}{{ page.panel_4 }}{% else %}ST<span class="hop">-41969</span>{% endif %}</div>
+                        <div class="panel-5">{% if page.panel_5 %}{{ page.panel_5 }}{% else %}XP<span class="hop">-1701D</span>{% endif %}</div>
+                    </div>
+                </div>
+                <div class="right-frame">
+                    <div class="bar-runner">
+                        <div class="bar-6"></div>
+                        <div class="bar-7"></div>
+                        <div class="bar-8"></div>
+                        <div class="bar-9"></div>
+                        <div class="bar-10"></div>
+                    </div>
+                    <main>
+                        {{ content }}
+
+                        <footer>
+                            <div class="footer-inside">
+                                <div class="footer-text">
+                                    <p>{% if page.footer_text %}{{ page.footer_text }}{% else %}Sternenflotten Xenobiologie-Archiv &#149; Sternzeit 78376.2{% endif %}</p>
+                                </div>
+                            </div>
+                            <div class="footer-panel">{% if page.footer_panel %}{{ page.footer_panel }}{% else %}XR-47{% endif %}</div>
+                        </footer>
+                    </main>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script type="text/javascript" src="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/lcars.js"></script>
+</body>
+</html>
