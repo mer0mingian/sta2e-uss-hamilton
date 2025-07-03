@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% if page.title %}{{ page.title }}{% else %}Ship Entry{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="date=no">
+    <link rel="stylesheet" type="text/css" href="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/lcars-ultra-picard.css">
+    <script src="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/jquery-3-7-0.min.js"></script>
+    <style type="text/css">
+        html { scroll-behavior: smooth; }
+        .abstract-content {
+            padding: 2em;
+            line-height: 1.6;
+        }
+        .abstract-title {
+            color: var(--orange);
+            font-size: 1.4em;
+            margin-bottom: 1em;
+        }
+        .abstract-authors {
+            color: var(--light-orange);
+            font-style: italic;
+            margin-bottom: 1em;
+        }
+        .stardate {
+            color: var(--cyan);
+            margin-bottom: 2em;
+        }
+        .abstract-text {
+            color: var(--ghost-gray);
+            text-align: justify;
+        }
+        .abstract-paragraph {
+            margin-bottom: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap-everything">
+        <section id="column-3">
+            <div class="top-wrapper">
+                <div class="top-display">
+                    <div class="top-display-left">
+                        <nav id="primary-nav">
+                            <a href="{% if page.back_link %}{{ page.back_link }}{% else %}../../ship_database.html{% endif %}">Zurück</a>
+                        </nav>
+                    </div>
+                    <div class="top-display-right">
+                        <div class="top-display-content">
+                            <div class="top-arch-1">
+                                <div class="top-arch-2">
+                                    <div class="top-arch-content">
+                                        <img src="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/sfcmd.png" class="sfc">
+                                        <div class="lcars-heading">{% if page.heading %}{{ page.heading }}{% else %}WISSENSCHAFTLICHE DATENBANK{% endif %}</div>
+                                        <div class="lcars-access">
+                                            Zugriff <span class="blink medium-dark-blue">autorisiert</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="wrap">
+                <div class="right-frame">
+                    <main class="abstract-content">
+                        {{ content }}
+                    </main>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script type="text/javascript" src="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/lcars.js"></script>
+</body>
+</html>
