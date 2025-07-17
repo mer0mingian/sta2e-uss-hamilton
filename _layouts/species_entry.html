@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html lang="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
+
 <head>
     <title>{% if page.title %}{{ page.title }}{% else %}Species Entry{% endif %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="format-detection" content="date=no">
+	<meta http-equiv='cache-control' content='no-cache'>
+	<meta http-equiv='expires' content='0'>
+	<meta http-equiv='pragma' content='no-cache'>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/lcars-ultra-picard.css">
     <script src="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/jquery-3-7-0.min.js"></script>

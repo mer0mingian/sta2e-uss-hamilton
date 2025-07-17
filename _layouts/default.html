@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}">
 
 <head>
 	<title>{% if page.title %}{{ page.title }}{% else %}U.S.S. Hamilton LCARS{% endif %}</title>
@@ -9,6 +9,7 @@
 	<meta http-equiv='cache-control' content='no-cache'>
 	<meta http-equiv='expires' content='0'>
 	<meta http-equiv='pragma' content='no-cache'>
+    <meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" href="assets/lcars-ultra-picard.css">
 	<script src="assets/jquery-3-7-0.min.js"></script>
 </head>
