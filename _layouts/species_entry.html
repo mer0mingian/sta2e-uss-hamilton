@@ -115,15 +115,7 @@
                     </div>
                     <main>
                         {{ content }}
-
-                        <footer>
-                            <div class="footer-inside">
-                                <div class="footer-text">
-                                    <p>{% if page.footer_text %}{{ page.footer_text }}{% else %}Sternenflotten Xenobiologie-Archiv &#149; Sternzeit 78376.2{% endif %}</p>
-                                </div>
-                            </div>
-                            <div class="footer-panel">{% if page.footer_panel %}{{ page.footer_panel }}{% else %}XR-47{% endif %}</div>
-                        </footer>
+						{% include footer-wrapper.html %}
                     </main>
                 </div>
             </div>

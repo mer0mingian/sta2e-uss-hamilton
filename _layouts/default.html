@@ -17,14 +17,52 @@
 <body>
 	<div class="wrap-everything">
 		<section id="column-3-standard">
-			{% include top-wrapper.html %}
-			<div class="spacer">
-				<div class="space-sidebar"></div>
-				<div class="space-1"></div>
-				<div class="space-2"></div>
-				<div class="space-3"></div>
-				<div class="space-4"></div>
-			</div>
+            <div class="top-wrapper">
+                <div class="top-display">
+                    <div class="top-display-left">
+                        <nav id="primary-nav">
+                            <a href="{% if page.back_link %}{{ page.back_link }}{% else %}../../ship_database.html{% endif %}">HAUPTMENÜ</a>
+                            <a href="">SUCHE</a>
+                            <a href="">ARCHIV</a>
+                        </nav>
+                        <div class="chunk"> </div>
+                        <div class="panel-wrapper">
+                            <div class="panel-1">{% if page.panel_id %}{{ page.panel_id }}{% else %}SF-557{% endif %}</div>
+                        </div>
+                    </div>
+                    <div class="top-display-right">
+                        <div class="top-display-content">
+                            <div class="top-arch-1">
+                                <div class="top-arch-2">
+                                    <div class="top-arch-content">
+                                        <img src="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/sfcmd.png" class="sfc">
+                                        <div class="lcars-heading">{% if page.heading %}{{ page.heading }}{% else %}STERNENFLOTTEN XENOBIOLOGISCHER BERICHT{% endif %}</div>
+                                        <div class="lcars-access">
+                                            Autorisierungscode <span class="blink medium-dark-blue">akzeptiert</span>
+                                        </div>
+                                    </div>
+                                    <div class="top-arch-panel-1">
+                                    </div>
+                                    <div class="top-arch-panel-2">
+                                        23<span class="hop">-</span>09
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="arch-bottom">
+                            <div class="arch-base"> </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="top-display-bottom">
+                    <div class="bar-elbow"></div>
+                    <div class="bar-1"></div>
+                    <div class="bar-2"></div>
+                    <div class="bar-3"></div>
+                    <div class="bar-4"></div>
+                    <div class="bar-5"></div>
+                </div>
+            </div>
 			<div class="wrap">
 				<div class="scroll-top"><a id="scroll-top" href=""><span class="hop">screen</span> top</a></div>
 				<div class="left-frame">
