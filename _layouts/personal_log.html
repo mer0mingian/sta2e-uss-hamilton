@@ -1,24 +1,26 @@
-
 ---
 layout: default
 ---
 
-<div class="personal-log-header">
-  <img src="{{ page.icon | relative_url }}" alt="{{ page.title }} icon" class="character-icon">
-  <h1>{{ page.title }}</h1>
-  <h2>{{ page.position }}</h2>
+<div class="flexbox">
+  <div class="col">
+    <img src="{{ page.icon | relative_url }}" alt="{{ page.title }} icon" style="width: 150px; height: 150px; border-radius: 50%; border: 4px solid var(--primary-gray);">
+  </div>
+  <div class="col">
+    <h1>{{ page.title }}</h1>
+    <h2 class="light-orange">{{ page.position }}</h2>
+  </div>
 </div>
 
 <hr>
 
-<div class="log-entries">
-  <h3>Log Entries</h3>
-  <ul>
-    {% assign logs = site.static_files | where: "character", page.character_name | sort: 'date' | reverse %}
-    {% for log in logs %}
-      <li>
-        <a href="{{ log.path | relative_url }}">{{ log.name }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="lcars-text-bar">
+  <span>Log Entries</span>
 </div>
+
+<ul class="lcars-list">
+  {% assign logs = site.static_files | where: "character", page.character_name | sort: 'date' | reverse %}
+  {% for log in logs %}
+    <li class="bullet-blue"><a href="{{ log.path | relative_url }}">{{ log.name }}</a></li>
+  {% endfor %}
+</ul>
