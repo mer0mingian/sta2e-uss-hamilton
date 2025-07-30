@@ -4,17 +4,20 @@ title: Crew Manifest
 ---
 
 <table>
-  <tr>
-    {% assign header = site.data.crew_manifest[0] %}
-    {% for pair in header %}
-      <th>{{ pair[0] }}</th>
-    {% endfor %}
-  </tr>
-  {% for row in site.data.crew_manifest %}
+  <thead>
     <tr>
-      {% for pair in row %}
-        <td>{{ pair[1] }}</td>
+      {% for key in site.data.crew_manifest[0].keys %}
+        <th>{{ key }}</th>
       {% endfor %}
     </tr>
-  {% endfor %}
+  </thead>
+  <tbody>
+    {% for row in site.data.crew_manifest %}
+      <tr>
+        {% for value in row.values %}
+          <td>{{ value }}</td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </tbody>
 </table>
