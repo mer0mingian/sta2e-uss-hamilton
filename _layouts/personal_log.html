@@ -1,0 +1,24 @@
+
+---
+layout: default
+---
+
+<div class="personal-log-header">
+  <img src="{{ page.icon | relative_url }}" alt="{{ page.title }} icon" class="character-icon">
+  <h1>{{ page.title }}</h1>
+  <h2>{{ page.position }}</h2>
+</div>
+
+<hr>
+
+<div class="log-entries">
+  <h3>Log Entries</h3>
+  <ul>
+    {% assign logs = site.static_files | where: "character", page.character_name | sort: 'date' | reverse %}
+    {% for log in logs %}
+      <li>
+        <a href="{{ log.path | relative_url }}">{{ log.name }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
