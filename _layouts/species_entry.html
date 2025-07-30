@@ -56,7 +56,7 @@
                             <div class="top-arch-1">
                                 <div class="top-arch-2">
                                     <div class="top-arch-content">
-                                        <img src="{% if page.relative_path %}{{ page.relative_path }}{% else %}../{% endif %}assets/sfcmd.png" class="sfc">
+                                        <img src="{{ '/assets/sfcmd.png' | relative_url }}" class="sfc">
                                         <div class="lcars-heading">{% if page.heading %}{{ page.heading }}{% else %}STERNENFLOTTEN XENOBIOLOGISCHER BERICHT{% endif %}</div>
                                         <div class="lcars-access">
                                             Autorisierungscode <span class="blink medium-dark-blue">akzeptiert</span>
