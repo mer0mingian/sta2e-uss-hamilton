@@ -8,6 +8,21 @@
 	<meta name="format-detection" content="date=no">
 	<link rel="stylesheet" type="text/css" href="{{ '/assets/lcars-ultra-picard.css' | relative_url }}">
 	<script src="{{ '/assets/jquery-3-7-0.min.js' | relative_url }}"></script>
+	<script type="text/javascript">
+	  $(document).ready(function() {
+	    var secondaryNav = $('#secondary-nav');
+	    var stardateHeadings = $('h3:contains("STARDATE")');
+
+	    stardateHeadings.each(function(index) {
+	      var stardateText = $(this).text();
+	      var stardateId = 'stardate-' + index;
+	      $(this).attr('id', stardateId);
+
+	      var link = $('<a href="#' + stardateId + '">' + stardateText + '</a>');
+	      secondaryNav.append(link);
+	    });
+	  });
+	</script>
 </head>
 
 <body>
@@ -31,11 +46,8 @@
 							<div class="top-arch-1">
 								<div class="top-arch-2">
 									<div class="top-arch-content">
-										<img src="{{ '/assets/sfcmd.png' | relative_url }}" class="sfc">
+										{% if page.portrait_icon %}<img src="{{ page.portrait_icon | relative_url }}" class="sfc">{% endif %}
 										<div class="lcars-heading">{% if page.heading %}{{ page.heading }}{% else %}PERSONAL LOG{% endif %}</div>
-										<div class="lcars-access">
-											Autorisierungscode <span class="blink medium-dark-blue">akzeptiert</span>
-										</div>
 									</div>
 									<div class="top-arch-panel-1">
 									</div>
@@ -65,8 +77,7 @@
 					<div>
 						<div class="panel-3">03<span class="hop">-111968</span></div>
 						<nav id="secondary-nav">
-							<a href="">04-095742</a>
-							<a href="">06-996421</a>
+							<!-- Stardate links will be dynamically inserted here by JavaScript -->
 						</nav>
 						<div class="panel-4">04<span class="hop">-41969</span></div>
 						<div class="panel-6">06<span class="hop">-071984</span></div>
