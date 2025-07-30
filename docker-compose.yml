@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  jekyll:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - "4000:4000" # Map port 4000 for Jekyll serve
+    command: jekyll build

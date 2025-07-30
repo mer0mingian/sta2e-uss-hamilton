@@ -230,6 +230,7 @@ td {
 }
 
 .wrap-standard-full-screen {
+	display: flex;
 	max-width: 100%;
 }
 
