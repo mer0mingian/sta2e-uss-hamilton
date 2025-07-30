@@ -1,19 +1,19 @@
 ---
 layout: table_layout
-title: Crew Manifest
+title: Senior Officers
 ---
 
-{% if site.data.crew_manifest and site.data.crew_manifest.size > 0 %}
+{% if site.data.senior_officers and site.data.senior_officers.size > 0 %}
 <table>
   <thead>
     <tr>
-      {% for key in site.data.crew_manifest[0].keys %}
+      {% for key in site.data.senior_officers[0].keys %}
         <th>{{ key }}</th>
       {% endfor %}
     </tr>
   </thead>
   <tbody>
-    {% for row in site.data.crew_manifest %}
+    {% for row in site.data.senior_officers %}
       <tr>
         {% for value in row.values %}
           <td>{{ value }}</td>
@@ -23,5 +23,5 @@ title: Crew Manifest
   </tbody>
 </table>
 {% else %}
-<p>No crew data available.</p>
+<p>No senior officer data available.</p>
 {% endif %}
