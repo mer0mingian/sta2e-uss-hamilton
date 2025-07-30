@@ -148,6 +148,28 @@ a:active {
 	outline: none;
 }
 
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+thead {
+  border-bottom: 2px solid var(--primary-gray);
+}
+
+th {
+  padding: 0.5rem;
+  text-align: left;
+  color: var(--light-orange);
+  text-transform: uppercase;
+}
+
+td {
+  padding: 0.5rem;
+  border-bottom: 1px solid var(--medium-dark-gray);
+}
+
 @keyframes blink {
 	0% {opacity: 0}
 	49%{opacity: 0}
