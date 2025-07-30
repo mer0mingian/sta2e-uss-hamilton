@@ -3,6 +3,7 @@ layout: crew_manifest_layout
 title: Crew Manifest
 ---
 
+{% if site.data.crew_manifest and site.data.crew_manifest.size > 0 %}
 <table>
   <thead>
     <tr>
@@ -21,3 +22,6 @@ title: Crew Manifest
     {% endfor %}
   </tbody>
 </table>
+{% else %}
+<p>No crew data available.</p>
+{% endif %}
