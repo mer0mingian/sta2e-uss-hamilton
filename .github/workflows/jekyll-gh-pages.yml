@@ -30,6 +30,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Download Crew Manifest
+        run: curl -o _data/crew_manifest.csv 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQZTQ_Heow4ZL5pF_Gv6T25XbVlIt8QdTZmdrMs2OqRl9_AvcDplBsIXIMI8tJj_QuzU8GKe_91LLYx/pub?output=csv'
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:

@@ -1,12 +1,20 @@
 ---
-layout: default
+layout: crew_manifest_layout
 title: Crew Manifest
 ---
 
-<!-- Start your content here. -->
-
-<h1>Hello</h1>
-<h2>LCARS Ultra &#149; Picard Theme &#149; Standard Layout</h2>
-<h3>Welcome to the 25th Century!</h3>
-<p>Replace this content with your own.</p>
-<p>Live long and prosper.</p>
+<table>
+  <tr>
+    {% assign header = site.data.crew_manifest[0] %}
+    {% for pair in header %}
+      <th>{{ pair[0] }}</th>
+    {% endfor %}
+  </tr>
+  {% for row in site.data.crew_manifest %}
+    <tr>
+      {% for pair in row %}
+        <td>{{ pair[1] }}</td>
+      {% endfor %}
+    </tr>
+  {% endfor %}
+</table>
