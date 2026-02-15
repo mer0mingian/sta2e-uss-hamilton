@@ -48,6 +48,13 @@ Prerequisites for bot implementation:
 - Infrastructure/hosting decisions
 - Secure credential sharing guidelines
 
+### troubleshooting.md
+Common issues and solutions:
+- Discord Private Bot / OAuth2 errors
+- Intent configuration issues
+- OAuth2 scope problems
+- Quick reference for correct settings
+
 ## Quick Links
 
 - **Main Project**: `/home/mer0/repositories/sta2e-uss-hamilton/`
