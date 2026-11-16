@@ -9,10 +9,11 @@
 
 ## 1) Muss für Adaption: Cetacean Ops officer
 - **Prinzip 6:** „Must include the **Cetacean Ops officer**.“
-- **Befund:** Im Hamilton-Repo und in den eingelesenen CSVs **nicht namentlich belegt**.
-- **Festgehalten (2026-11-17):** **Delphin** (Name offen), **sehr trockener Humor**. Nimmt wegen seiner Größe nur bedingt am Crew-Alltag teil. Pflichtpräsenz im Abenteuer (u. a. mögliche Unterstützung bei Resonanz-/Pulswahrnehmung).
-- **Szene-Idee:** **Gi’ral** möchte in der Schwangerschaft plötzlich schwimmen gehen — möglicher Babyparty-/Charaktermoment mit Bezug zum Cetacean Ops officer.
-- **Noch offen:** Name, genaue Rolle/Station, Stimme im Detail, ggf. kurze Values/Foci nur wenn spielrelevant.
+- **Befund:** Im Hamilton-Repo und in den eingelesenen CSVs zuvor nicht namentlich belegt.
+- **Festgelegt (2026-11-17):** **Lt. Maren** (Delphin, Cetacean Ops, **Navigation/Science-Support**). **Formelle Wortwahl, melodische Stimme**. Nimmt wegen seiner Größe nur bedingt am Crew-Alltag teil.
+- **Pflichtpräsenz / Funktion:** Backup bei Puls-/Resonanzdeutung — **primäre Erkennung** nach Möglichkeit bei **T'Muk** oder **Alpha-Crew**; Maren liefert bei Bedarf den dokumentierten Hinweis (z. B. Muster/Verkürzung der „Wehen“-Pulse, Resonanzfenster).
+- **Szenenmoment (Babyparty-Kontext):** **Gi’ral** möchte in der Schwangerschaft plötzlich schwimmen gehen und sucht Wasser/Ruhe im Cetacean-Ops-/Tankbereich. Maren begegnet ihr ruhig, bietet Raum/Beobachtung (formell, melodisch; leiser Charaktermoment).
+- **Noch offen:** Feintuning konkreter Taktung/Dialogzeilen, ggf. kurze Values/Foci nur wenn spielrelevant.
 
 ## 2) Bekannte Hamilton-/Missions-nahe NSCs (bestehend/etabliert im Material)
 | Name | Rolle/Kontext | Quelle | Einordnung |
@@ -50,8 +51,7 @@ Quelle: [`../../clear-skies-source/Crew & NPC Overview - NPC Data.csv`](../../cl
 **Antagonisten (Adaption, Prinzip 3):** Tholians – „same ones from scenario 'A Starless Night' (Tholian dreadnaught and Tholian captain)“. Konkrete Namen/Stats jenseits Bildreferenzen im Repo **nicht dokumentiert** → als **bekannter Antagonisten-Rahmen mit offenen Details** behandeln. Siehe [../a-starless-night/known-material.md](../a-starless-night/known-material.md).
 
 ## 6) Neu/zu definierende NSCs (empfohlen für Spielabend)
-- **Cetacean Ops officer** (Pflicht) – Persönlichkeit, Interaktionsstil, ggf. Bezug zu Crew/Anomalie.
-- **Weitere Brücken-/Support-Stimmen** zur Belebung (Prinzip 6), falls Tischgröße/Lücken es erfordern.
+- **Weitere Brücken-/Support-Stimmen** zur Belebung (Prinzip 6), falls Tischgröße/Lücken es erfordern (Cetacean Ops officer: **Lt. Maren** festgelegt, siehe Abschnitt 1).
 - **Tholian captain / weitere Tholian-Rollen**: Darstellung, Motivation (mysteriös; ggf. „nursing“ der Entität unterstützen) – Details offen, innerhalb Prinzipien flexibel.
 
 ## Hinweise zur Nutzung

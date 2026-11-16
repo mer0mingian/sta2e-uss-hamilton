@@ -21,16 +21,20 @@ Tholian captain der **T'Laru**; der Name lässt sich im Föderationsstandard als
 _Avoid_: unbenannter Captain
 
 **Cetacean Ops officer (USS Hamilton)**:
-Delphin (Name offen) in Cetacean Ops; sehr trockener Humor, nimmt wegen seiner Größe nur bedingt am Crew-Alltag teil. Pflichtpräsenz im Abenteuer (Unterstützung bei Resonanz-/Pulsbeobachtung möglich).
+**Lt. Maren** (Delphin, Name Englisch) in Cetacean Ops, Bereich **Navigation/Science-Support**. Formelle Wortwahl, aber melodische Stimme; nimmt wegen seiner Größe nur bedingt am Crew-Alltag teil. Pflichtpräsenz im Abenteuer als **Backup/Absicherung**: Falls **T'Muk** oder die **Alpha-Crew** die Bedeutung der Pulse/Resonanzmuster nicht erkennen, kann Maren den entscheidenden Hinweis liefern (dokumentierter Hinweis für die Vorbereitung). Primäre Puls-/Resonanz-Erkennung soll, wenn möglich, bei T'Muk/Alpha-Crew liegen.
 
 **Dilithium**:
 Ressource im Setting-Kontext (mögliche Entstehung im Reifungsprozess der kristallinen Entität).
 _Avoid_: Dilizium
 
+**Nursery**:
+Geeigneter Zielort für die kristalline Entität nach dem sicheren Austritt: ein **Planet mit hohem Pflanzenanteil, aber keinem tierischen Leben**. Die Bedingungen scheinen für die Entität passend, bleiben jedoch bewusst rätselhaft. **Tholians** zeigen mögliches Interesse an „Nursing“/Schutz der Entität und kennen den Ort möglicherweise als passenden Zufluchts- oder Aufzuchtsort; Umfang und Natur dieses Bezugs bleiben mehrdeutig. Unklar/mysteriös bleiben u. a. Herkunft des Ortes, warum gerade diese flora-dominierte Umgebung geeignet ist und Details tholianischer Überlieferung/Riten.
+
 ## Beziehungen
 
 - **Jateran** ist der Handlungsort des kommenden Abenteuers; die **kristalline Entität** steht im Zusammenhang mit Dilithium-Entstehung und planetaren Auswirkungen (zunehmende Erdbeben, Subraumpulse/„Wehen“).
-- **Vozrax** kommandiert die **T'Laru**; **Tholians** treten als Gegenpartei mit Interesse an der **kristallinen Entität** / dem **Nursery** auf. Vozrax vertraut **Captain Malax** als Ansprechpartner für eine friedliche Lösung.
+- **Vozrax** kommandiert die **T'Laru**; **Tholians** treten als Gegenpartei mit Interesse an der **kristallinen Entität** / der **Nursery** auf. Vozrax vertraut **Captain Malax** als Ansprechpartner für eine friedliche Lösung.
+- **Nursery** ist der Zielplanet (hoher Pflanzenanteil, kein tierisches Leben), zu dem die Entität nach sicherem Austritt gebracht werden soll; tholianisches Interesse an Schutz/„Nursing“ ist möglich, die Hintergründe bleiben mysteriös.
 
 ## Flagged ambiguities
 
@@ -44,10 +48,10 @@ _Avoid_: Dilizium
 - **Auftragsbasis:** **Option A** (Routineauftrag mit verborgenem Puls der Reifung) als Grundidee, angepasst an folgenden Hook.
 - **Nachricht & Auftrag:** **Vozrax** übermittelt an Starfleet Command ausschließlich **Schiffsname (T’Laru)**, **Name Captain Malax**, **Sternzeit** und **Ort (Jateran)**. **Admiral Blackwater** erteilt daraus den Befehl an die USS Hamilton.
 - **Einstieg:** Spielbeginn über einen **Computerlogbucheintrag von Commander Knox** (Erster Offizier), der Nachricht und Befehl festhält — schneller Einstieg, wenig Vorwissen der Crew.
-- **Danach Szene 2:** **Babyparty** (Charakterspiel). Klingonische und vulkanische Ausgestaltung wird mit den Spieler:innen abgestimmt (Katja/T’Laar). In der frühen Phase wird angedeutet, wie intensiv klingonische Wehen sind (Themen-Teaser). **Gi’ral** möchte in der Schwangerschaft plötzlich schwimmen gehen — möglicher Moment mit **Cetacean Ops officer** (Delphin, trockener Humor, wegen Größe nur bedingt im Alltag präsent).
+- **Danach Szene 2:** **Babyparty** (Charakterspiel). Klingonische und vulkanische Ausgestaltung wird mit den Spieler:innen abgestimmt (Katja/T’Laar). In der frühen Phase wird angedeutet, wie intensiv klingonische Wehen sind (Themen-Teaser). **Gi’ral** möchte in der Schwangerschaft plötzlich schwimmen gehen — sie sucht Wasser/Ruhe im Cetacean-Ops-/Tankbereich; **Lt. Maren** (Cetacean Ops, Navigation/Science-Support, formelle Wortwahl, melodische Stimme) begegnet ihr dort ruhig und bietet Raum/Beobachtung (leiser Charaktermoment, Ton an Marens Stimme angepasst).
 - **Subraumpulse / Dringlichkeit:** Beim Eintreffen registriert die Hamilton zunächst einen **Subraumpuls wie eine „Wehe“** (nicht interpretierbar). Es folgen **mehrere Pulse in kürzer werdenden Abständen**; sie zeigen den Zeitpunkt an, zu dem die Entität aus der Planetenoberfläche hervorbrechen wird. Die Sternzeit erzeugt zusätzlich Dringlichkeit und Neugier durch Unwissen.
-- **Ankunft/Erkenntnis:** **Erdbeben nehmen stetig zu** und stimmen mit den Subraumpulsen überein. Die Crew stellt Hypothesen auf.
-- **Ziel der Crew:** Einen **technischen Weg** finden, den Austritt der Entität zu ermöglichen, **ohne den Planeten zu zerstören**; anschließend Entität zu einer geeigneten **Nursery** bringen.
+- **Ankunft/Erkenntnis:** **Erdbeben nehmen stetig zu** und stimmen mit den Subraumpulsen überein. Die Crew stellt Hypothesen auf. **Primäre Erkennung/Deutung** der Puls-/Resonanzmuster liegt nach Möglichkeit bei **T'Muk** oder der **Alpha-Crew**; **Lt. Maren** dient nur als Backup und gibt bei Bedarf den dokumentierten Hinweis.
+- **Ziel der Crew:** Einen **technischen Weg** finden, den Austritt der Entität zu ermöglichen, **ohne den Planeten zu zerstören**; anschließend Entität zur **Nursery** bringen (Planet mit hohem Pflanzenanteil, ohne tierisches Leben; mysteriös, tholianischer Schutz-/Nursing-Bezug möglich).
 - **Vozrax’ Motiv:** Vertrauen in **Malax** (frühere Kooperation); will Frieden wahren und sich als **Beschützer** der gottgleich verehrten kristallinen Entität zeigen.
 - **Tholianische Sicht:** Kristalline Entitäten gelten als gottgleich; die **Enterprise-D** wird als Mörderin einer kristallinen Entität gesehen (tholianische Perspektive).
 - **Rahmen:** 6-Szenen-Leitplanke (angepasst: Knox-Log-Einstieg, Babyparty, Ankunft/Erdbeben+Pulse, Entdeckung/Eintreffen Tholians, Nursery-Suche+Eskalation, Rettung+Nursery), 3,5–4 h, moderates Würfeln, kein planetarer Politik-Plot. Konkrete Beats weiter zu schärfen.

@@ -27,7 +27,7 @@ Eine weitere spannende Möglichkeit, die ich mag, ist, dass die kristallinen Ent
 - **Danach:** **Babyparty** (Charakterspiel; klingonische/vulkanische Ausgestaltung mit Spieler:innen abstimmen). Früh andeuten, wie intensiv klingonische Wehen sind (Teaser).
 - **Pulse/Dringlichkeit:** Beim Eintreffen zunächst ein **Subraumpuls wie eine „Wehe“** (nicht interpretierbar). Danach **mehrere Pulse in kürzer werdenden Abständen** = Zeitpunkt, zu dem die Entität aus der Planetenoberfläche hervorbrechen wird. Sternzeit erzeugt Dringlichkeit/Neugier durch Unwissen.
 - **Ankunft:** **Erdbeben nehmen stetig zu** und stimmen mit Subraumpulsen überein; Crew stellt Hypothesen auf.
-- **Ziel:** Technischen Weg finden, den Austritt zu ermöglichen, **ohne den Planeten zu zerstören**; danach Entität zur **Nursery** bringen.
+- **Ziel:** Technischen Weg finden, den Austritt zu ermöglichen, **ohne den Planeten zu zerstören**; danach Entität zur **Nursery** bringen (Planet mit hohem Pflanzenanteil, ohne tierisches Leben; mysteriös, tholianischer Schutz-/Nursing-Bezug möglich).
 - **Vozrax/Tholians:** Vozrax vertraut Malax (frühere Kooperation), will Frieden wahren und sich als **Beschützer** der gottgleich verehrten Entität zeigen. Tholians sehen die **Enterprise-D** als Mörderin einer kristallinen Entität (Trauma/Misstrauen). Der 6-Szenen-Rahmen unten bleibt Leitplanke; Beats sind weiter zu schärfen. 
 
 Kommen wir zum Ablauf. Leitplanke (6 Szenen, angepasst an Missionsrahmen oben):  
@@ -35,8 +35,8 @@ Kommen wir zum Ablauf. Leitplanke (6 Szenen, angepasst an Missionsrahmen oben):
 2. **Babyparty / Reise & Vorbereitung:** Charakterspiel (T’Laar & Gi’ral schwanger; klingonische/vulkanische Ausgestaltung abstimmen). Teaser: Intensität klingonischer Wehen.
 3. **Ankunft & Vorstellungen mit den NPCs:** Eintreffen bei Jateran; erster **„Wehen“-Subraumpuls** (nicht interpretierbar). **Erdbeben nehmen stetig zu** und korrelieren mit Pulsen; Crew bildet Hypothesen. **Mehrere Pulse in kürzer werdenden Abständen** markieren den bevorstehenden Austritt der Entität.
 4. **Entdeckung der kristallinen Entität und Eintreffen der Tholians:** Entität/Phänomen greifbarer; Kontakt/Druck durch T’Laru/Vozrax (Schutzanspruch, Vertrauen in Malax, tholianisches Trauma: Enterprise-D).
-5. **Nursery-Suche & Eskalation:** Technischen Weg finden, Austritt zu ermöglichen, **ohne den Planeten zu zerstören**; Nursery bestimmen; Tholians ggf. aggressiv (Szene 5).
-6. **Rettung der kristallinen Entität und Ankunft in der Nursery:** Sichere Lösung, Frieden wahren, Übergabe/Ankunft.
+5. **Nursery-Suche & Eskalation:** Technischen Weg finden, Austritt zu ermöglichen, **ohne den Planeten zu zerstören**; Kurs/Anflug zur **Nursery** (Planet mit hohem Pflanzenanteil, ohne tierisches Leben) bestimmen; Tholians ggf. aggressiv (Szene 5).
+6. **Rettung der kristallinen Entität und Ankunft in der Nursery:** Sichere Lösung, Frieden wahren, Übergabe/Ankunft auf dem Nursery-Planeten (flora-dominant, kein tierisches Leben; Herkunft und genaue Eignung bleiben mysteriös).
 
 Dabei sollte genug Platz sein, besonders in Szene 2, für die Babyparty und Charakterspiel. 
 
