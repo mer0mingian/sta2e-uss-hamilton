@@ -1,0 +1,142 @@
+Character Name,Image,Role & Type,Attribute,Att-Val,Discipline,Dis-Val,Other,Talents & Special Rules,Values,Foci,Equipment,Scenario
+Ayel,,Patient,Control,8,Com,0,Stress,Wary (p154),,,,Unwelcome Aid
+,,,Fitness,9,Sec,0,,,,,,
+,,,Presence,8,Sci,1,,,,,,
+Minor,,"Male, Romulan, Infected, Social worker",Daring,9,Conn,2,Threat,,,,,
+,,,Insight,7,Eng,2,0,,,,,
+,,,Reason,7,Med,1,,,,,,
+Nevala,,Romulanischer MTA,Control,8,Com,1,Stress,Guidance: Medical treatment,,,Hyposprays,Unwelcome Aid
+,,,Fitness,8,Sec,1,,Wary (p154),,,Erste-Hilfe-Kit,
+,,,Presence,7,Sci,2,,,,,Med Tricorder,
+Minor,,"Female, Romulan, Recently Infected, MTA, Exhausted",Daring,7,Conn,0,Threat,,,,,
+,,,Insight,9,Eng,0,0,,,,,
+,,,Reason,9,Med,2,,,,,,
+Hiren,,Campleiter,Control,9,Com,3,Stress,Paranoia (p110),Fate of the planet on my shoulders,Administration,Padd,Unwelcome Aid
+,,,Fitness,8,Sec,0,,Wary (p154),,Buchhaltung,,
+,,,Presence,10,Sci,2,,,,,,
+Notable,,"Male, Romulan, Stressed-out",Daring,7,Conn,1,Threat,,,,,
+,,,Insight,8,Eng,1,3,,,,,
+,,,Reason,9,Med,2,,,,,,
+Jarok,,Magistrat,Control,9,Com,3,Stress,Paranoia (p110),Fate of the planet on my shoulders,Administration,,Unwelcome Aid
+,,,Fitness,7,Sec,2,,Wary (p154),Duty to the Empire,Military Precision,,
+,,,Presence,10,Sci,1,,Crisis Management (p161),,,,
+Notable,,"Male, Romulan, Stressed-out, Leader of the colony",Daring,8,Conn,2,Threat,,,,,
+,,,Insight,9,Eng,0,3,,,,,
+,,,Reason,8,Med,1,,,,,,
+Altor,,Milizanführer,Control,12,Com,4,Stress,Wary (p110),Only leader left of the Empire,Persuasion,"Unarmed Strike: Melee, Stun 2, Size 1H",Unwelcome Aid
+,,,Fitness,8,Sec,3,,Back-up plans (p149),I'm responsible for the Romulan people,Tactics,"Dagger: Melee, Deadly 2, Size 1h, Hidden 1, Charge",
+,,,Presence,11,Sci,4,,Student of War (p163),Power is safety,Diplomacy,"Disruptor Pistol: Ranged, Deadly 4, Size 1H, Intense",
+Major,,"Male, Romulan",Daring,8,Conn,1,Threat,Decicive Leadership (p157),Space grants you what you take,Coersion,"Escalation 1 Disruptor Rifle: Ranged, Deadly 5, Size 2H, Accurate, Intense",
+,,,Insight,8,Eng,0,11,Menacing 2,Better safe than sorry,,,
+,,,Reason,12,Med,0,,,,,,
+Uhlan,,Milizsoldat,Control,10,Com,1,Stress,Wary (p110),,,"Unarmed Strike: Melee, Stun 2, Size 1H",Unwelcome Aid
+,,,Fitness,9,Sec,2,,Guile and cunning (p153),,,"Dagger: Melee, Deadly 2, Size 1h, Hidden 1, Charge",
+,,,Presence,7,Sci,0,,,,,"Disruptor Pistol: Ranged, Deadly 4, Size 1H, Intense",
+Minor,,"Male, Romulan, Soldier",Daring,8,Conn,2,Threat,,,,"Escalation 1 Disruptor Rifle: Ranged, Deadly 5, Size 2H, Accurate, Intense",
+,,,Insight,8,Eng,1,0,,,,,
+,,,Reason,10,Med,0,,,,,,
+Dr. Zenn Iral,,"Counsellor
+Commander, XO",Control,10,Com,4,Stress,"Doctor's Orders, p164",We need to grow good experiences together,Psychotherapy,"Unarmed Strike: Melee, Stun 2, Size 1H",Crew
+,,,Fitness,7,Sec,1,7,"Multi-Discipline, p 157",I ease pain,Change motivation,"Phaser Typ 2: Ranged, Stun/Deadly 4, Size 1H, Charge",
+,,,Presence,12,Sci,3,Prot,"Positive Reinforcement, p165",The whole crew just had a traumatic experience,Stress management,,
+Major,,Betazoid,Daring,8,Conn,2,0,"Insightful Guidance, p165",The crew needs steady leadership now,Starfleet protocol,,
+,,,Insight,12,Eng,1,Threat,"Telepathic: Empathy, p155",,Negotiation,"Uniform, Trikorder, CommBadge, Phaser Typ 2",
+,,,Reason,10,Med,5,10,"Counsellor, p138",,Coaching,,
+Janice Randall,,"Yeoman 1st class
+Adjutant des Captains",Control,,Com,,Stress,,,Starfleet protocol,"Unarmed Strike: Melee, Stun 2, Size 1H",Crew
+,,,Fitness,,Sec,,,,,Federation law & jurisdiction,"Phaser Typ 2: Ranged, Stun/Deadly 4, Size 1H, Charge",
+,,,Presence,,Sci,,Prot,,,,,
+Minor,,Human,Daring,,Conn,,0,,,,,
+,,,Insight,,Eng,,Threat,,,,"Uniform, Trikorder, CommBadge, Phaser Typ 2",
+,,,Reason,,Med,,0,,,,,
+James Hawkins,,"Flight Controller
+Ensign",Control,9,Com,0,Stress,"Faith of the heart, p107",Horrible things are best ignored and never talked about again,Federation Starship Classes,"Unarmed Strike: Melee, Stun 2, Size 1H",Crew
+,,,Fitness,8,Sec,2,8,"Attack Run, p158",We are all mass-murderers,Impuls Engines,"Phaser Typ 2: Ranged, Stun/Deadly 4, Size 1H, Charge",
+,,,Presence,8,Sci,1,Prot,"Precise Evasion, p158",We do not deserve to be treated well,,,
+Notable,,Human,Daring,10,Conn,3,0,,,,,
+,,,Insight,8,Eng,2,Threat,,,,"Uniform, Trikorder, CommBadge, Phaser Typ 2",
+,,,Reason,7,Med,1,3,"Flight Controller, p137",,,,
+Vestra,,Romulan Freestate Commander,Control,12,Com,4,Stress,Wary (p110),Only leader left of the Empire,Persuasion,"Unarmed Strike: Melee, Stun 2, Size 1H",Unwelcome Aid
+,,,Fitness,8,Sec,3,8,Back-up plans (p149),Federation are intrigous,Tactics,"Dagger: Melee, Deadly 2, Size 1h, Hidden 1, Charge",
+,,,Presence,11,Sci,4,Prot,Student of War (p163),Power is safety,Diplomacy,"Disruptor Pistol: Ranged, Deadly 4, Size 1H, Intense",
+Major,,"Male, Romulan",Daring,8,Conn,1,0,Decicive Leadership (p157),Space grants you what you take,Coersion,"Escalation 1 Disruptor Rifle: Ranged, Deadly 5, Size 2H, Accurate, Intense",
+,,,Insight,8,Eng,0,9,,Better safe than sorry,,,
+,,,Reason,12,Med,0,,,,,,
+Prelena,,Qowat Milat sister,Control,9,Com,2,Stress,Wary (p110),,,"Unarmed Strike: Melee, Stun 2, Size 1H",Unwelcome Aid
+,,,Fitness,9,Sec,3,8,Back-up plans (p149),,,"Dagger: Melee, Deadly 2, Size 1h, Hidden 1, Charge",
+,,,Presence,8,Sci,1,Prot,Student of War (p163),,,"Disruptor Pistol: Ranged, Deadly 4, Size 1H, Intense",
+Notable,,"Female, Romulan, Secretbearer",Daring,10,Conn,0,0,Decicive Leadership (p157),,,"Escalation 1 Disruptor Rifle: Ranged, Deadly 5, Size 2H, Accurate, Intense",
+,,,Insight,7,Eng,1,9,,,,,
+,,,Reason,8,Med,2,,,,,,
+Nausicaan Brute,,,Control,12,Com,4,Stress,,,,"Unarmed Strike: Melee, Stun 2, Size 1H",Narsana Station
+,,,Fitness,8,Sec,3,8,,,,"Dagger: Melee, Deadly 2, Size 1h, Hidden 1, Charge",
+,,,Presence,11,Sci,4,Prot,,,,"Disruptor Pistol: Ranged, Deadly 4, Size 1H, Intense",
+Notable,,,Daring,8,Conn,1,0,,,,"Escalation 1 Disruptor Rifle: Ranged, Deadly 5, Size 2H, Accurate, Intense",
+,,,Insight,8,Eng,0,Threat,,,,,
+,,,Reason,12,Med,0,9,,,,,
+Stack,,,Control,12,Com,4,Stress,,,,"Unarmed Strike: Melee, Stun 2, Size 1H",Narsana Station
+,,,Fitness,8,Sec,3,8,,,,"Dagger: Melee, Deadly 2, Size 1h, Hidden 1, Charge",
+,,,Presence,11,Sci,4,Prot,,,,"Disruptor Pistol: Ranged, Deadly 4, Size 1H, Intense",
+Notable,,,Daring,8,Conn,1,0,,,,"Escalation 1 Disruptor Rifle: Ranged, Deadly 5, Size 2H, Accurate, Intense",
+,,,Insight,8,Eng,0,Threat,,,,,
+,,,Reason,12,Med,0,9,,,,,
+Zazrith,,,Control,12,Com,4,Stress,,,,"Unarmed Strike: Melee, Stun 2, Size 1H",Narsana Station
+,,,Fitness,8,Sec,3,8,,,,"Dagger: Melee, Deadly 2, Size 1h, Hidden 1, Charge",
+,,,Presence,11,Sci,4,Prot,,,,,
+Major,,,Daring,8,Conn,1,0,,,,,
+,,,Insight,8,Eng,0,Threat,,,,,
+,,,Reason,12,Med,0,9,,,,,
+Chief O'Malley,,Operations Officer,Control,,Com,,Stress,,,,"Unarmed Strike: Melee, Stun 2, Size 1H",Starbase 234
+,,,Fitness,,Sec,,8,,,,"Dagger: Melee, Deadly 2, Size 1h, Hidden 1, Charge",
+,,,Presence,,Sci,,Prot,,,,,
+Major,,"Starfleet Officer, Female, Human",Daring,,Conn,,0,,,,,
+,,,Insight,,Eng,,Threat,,,,,
+,,,Reason,,Med,,9,,,,,
+Admiral Blackwater,,Mission Control,Control,,Com,,Stress,,,,"Unarmed Strike: Melee, Stun 2, Size 1H",Starbase 234
+,,,Fitness,,Sec,,8,,,,"Dagger: Melee, Deadly 2, Size 1h, Hidden 1, Charge",
+,,,Presence,,Sci,,Prot,,,,,
+Notable,,"Male, Bolian, Starfleet Officer, Highly decorated",Daring,,Conn,,0,,,,,
+,,,Insight,,Eng,,Threat,,,,,
+,,,Reason,,Med,,,,,,,
+Grog,,Ferengi Trader,Control,,Com,,Stress,,,,"Unarmed Strike: Melee, Stun 2, Size 1H",Starbase 234
+,,,Fitness,,Sec,,8,,,,"Dagger: Melee, Deadly 2, Size 1h, Hidden 1, Charge",
+,,,Presence,,Sci,,Prot,,,,"Disruptor Pistol: Ranged, Deadly 4, Size 1H, Intense",
+Notable,,"Male, Ferengi",Daring,,Conn,,0,,,,"Escalation 1 Disruptor Rifle: Ranged, Deadly 5, Size 2H, Accurate, Intense",
+,,,Insight,,Eng,,Threat,,,,,
+,,,Reason,,Med,,9,,,,,
+Ferengi Dealer,,,Control,10,Com,1,Stress,,,Tactical Analysis,"Unarmed Strike: Melee, Stun 2, Size 1H",Narsana Station
+,,,Fitness,8,Sec,3,8,,,Tactical sensor sweeps,,
+,,,Presence,7,Sci,4,Prot,,,Deflector dish modifications,,
+Notable,,,Daring,9,Conn,2,0,,,,,
+,,,Insight,8,Eng,2,Threat,,,,,
+,,,Reason,9,Med,1,,,,,,
+Slibazz,,,Control,10,Com,1,Stress,,,Federation Computer Cores,"Unarmed Strike: Melee, Stun 2, Size 1H",Narsana Station
+,,,Fitness,8,Sec,1,8,,,Electro-plasma systems,,
+,,,Presence,7,Sci,2,Prot,,,Isolinear chips,,
+Notable,,,Daring,9,Conn,2,0,,,,,
+,,,Insight,8,Eng,4,Threat,,,,,
+,,,Reason,9,Med,3,,,,,,
+Gorn Brute,,,Control,10,Com,1,Stress,,,Pattern Enhancers,"Unarmed Strike: Melee, Stun 2, Size 1H",Narsana Station
+,,,Fitness,8,Sec,2,8,,,Transporter Operation,,
+,,,Presence,7,Sci,2,Prot,,,Transporter Repairs,,
+Notable,,,Daring,9,Conn,1,0,,,,,
+,,,Insight,8,Eng,4,Threat,,,,,
+,,,Reason,9,Med,3,,,,,,
+Orion Brute,,,Control,10,Com,1,Stress,,,Tactical Analysis,"Unarmed Strike: Melee, Stun 2, Size 1H",A starless night
+,,,Fitness,8,Sec,3,8,,,Tactical sensor sweeps,,
+,,,Presence,7,Sci,4,Prot,,,Deflector dish modifications,,
+Notable,,,Daring,9,Conn,2,0,,,,,
+,,,Insight,8,Eng,2,Threat,,,,,
+,,,Reason,9,Med,1,,,,,,
+Ensign Himden,,female Bolian Science Officer,Control,10,Com,1,Stress,,,Federation Computer Cores,"Unarmed Strike: Melee, Stun 2, Size 1H",A starless night
+,,,Fitness,8,Sec,1,8,,,Electro-plasma systems,,
+,,,Presence,7,Sci,2,Prot,,,Isolinear chips,,
+Notable,,,Daring,9,Conn,2,0,,,,,
+,,,Insight,8,Eng,4,Threat,,,,,
+,,,Reason,9,Med,3,,,,,,
+,,,Control,10,Com,1,Stress,,,Pattern Enhancers,"Unarmed Strike: Melee, Stun 2, Size 1H",A starless night
+,,,Fitness,8,Sec,2,8,,,Transporter Operation,,
+,,,Presence,7,Sci,2,Prot,,,Transporter Repairs,,
+Notable,,,Daring,9,Conn,1,0,,,,,
+,,,Insight,8,Eng,4,Threat,,,,,
+,,,Reason,9,Med,3,,,,,,

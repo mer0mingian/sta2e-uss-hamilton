@@ -1,0 +1,59 @@
+# Bekannte NSCs & Bedarf
+
+**Quellen:** [`../../clear-skies-source/Crew & NPC Overview - NPC Data.csv`](../../clear-skies-source/Crew & NPC Overview - NPC Data.csv), Hamilton-Logs (`pages/personal_logs/*`), [`../../clear-skies-source/CAMPAIGN_PRINCIPLES.md`](../../clear-skies-source/CAMPAIGN_PRINCIPLES.md).
+
+## Kategorisierung (für die Adaption)
+- **Bestehend (Hamilton/Repo):** im Hamilton-Kontext bereits belegt (Logs, CSV „Crew“ oder wiederkehrend).
+- **Bekannt aus Referenz/CSV (andere Szenarien):** für Kontext vorhanden, nicht zwingend Hamilton-Besatzung.
+- **Neu / zu definieren:** für diese Adaption benötigt, aber ohne feste Ausarbeitung im Repo.
+
+## 1) Muss für Adaption: Cetacean Ops officer
+- **Prinzip 6:** „Must include the **Cetacean Ops officer**.“
+- **Befund:** Im Hamilton-Repo und in den eingelesenen CSVs **nicht namentlich belegt**.
+- **Festgehalten (2026-11-17):** **Delphin** (Name offen), **sehr trockener Humor**. Nimmt wegen seiner Größe nur bedingt am Crew-Alltag teil. Pflichtpräsenz im Abenteuer (u. a. mögliche Unterstützung bei Resonanz-/Pulswahrnehmung).
+- **Szene-Idee:** **Gi’ral** möchte in der Schwangerschaft plötzlich schwimmen gehen — möglicher Babyparty-/Charaktermoment mit Bezug zum Cetacean Ops officer.
+- **Noch offen:** Name, genaue Rolle/Station, Stimme im Detail, ggf. kurze Values/Foci nur wenn spielrelevant.
+
+## 2) Bekannte Hamilton-/Missions-nahe NSCs (bestehend/etabliert im Material)
+| Name | Rolle/Kontext | Quelle | Einordnung |
+|---|---|---|---|
+| **Dr. Zenn Iral / Dr. Zenn'dikaar Iral** | Betazoid, Counselor/XO-Kontext β-Schicht, Major-NPC-Statblock in CSV (Scenario „Crew“) | CSV, `dr_iral.html`, `tlaar.html` | bestehend |
+| **Zhara ch'Thari** | Andorian Support/Operations (CSV), aktiv in Iral-Log | CSV, `dr_iral.html` | bestehend |
+| **Dr. Ethan Carter** | Human Support, Science Officer (CSV), aktiv in Iral-Log | CSV, `dr_iral.html` | bestehend |
+| **Ozyrrian 'Ozzy' th'Arilith** | Andorian CPO, Security (CSV), aktiv in Iral-Log | CSV, `dr_iral.html` | bestehend |
+| **Vrok zh'Daar** | Tellarite Security Officer (CSV), temporäres Kommando | CSV, `dr_iral.html` | bestehend |
+| **Marlin Vionn** | Trill Science Officer (CSV), Virus-/Laborunterstützung erwähnt | CSV, `yorin_jaela.html` | bestehend |
+| **Janice Randall** | Yeoman/Adjutant Captain (CSV, Scenario „Crew“) | CSV | bestehend (Hintergrund) |
+| **James Hawkins** | Flight Controller, Ensign (CSV, Scenario „Crew“) | CSV | bestehend (Hintergrund) |
+| **Cmdr. Robert Knox** | XO-Kandidat/Astrophysiker, extrahiert (Narasa), Genesung an Bord | `mendox.html`, `yorin_jaela.html`, `tlaar.html` | bestehend als Handlungsfigur |
+| **Lt. Larling** | Benzit, temporärer Engineering/Sicherheitssupport, Konfliktfigur | `tlaar.html`, `yorin_jaela.html`, `tmuk.html` | bestehend (Konfliktfaden) |
+| **Admiral Blackwater** | Mission Control / Auftraggeber (Starbase 234) | `tlaar.html`, `yorin_jaela.html`, `mendox.html`, CSV (Notable) | bestehend (extern) |
+| **Gi'ral** | Klingonische Sonderbotschafterin | `tmuk.html`, `yorin_jaela.html` | bestehend (Hook) |
+| **Dr. K'Vor**, **Prof. T'Venna** | Wissenschaftliche Ansprechpartner (Xar'Thai/Raumfaltung) | `yorin_jaela.html`, Ship-DB, Bildreferenz: [`../../clear-skies-source/Andorian Scientist KVor.jpeg`](../../clear-skies-source/Andorian%20Scientist%20KVor.jpeg) | bestehend (extern) |
+| **EEH/EMH/Holo-Diplomat u. a.** | Holo-Unterstützung (z. B. Bof Salar, Anton von Rieppel, Dr. A. Smith, Siedlecki, AyESHa in CSV/Logs) | CSV, Logs | bestehend (Ressource) |
+
+## 3) Vashti-Missions-NSCs (kontextuell, nicht Hamilton-Crew)
+Aus Logs/CSV (Scenarios „Unwelcome Aid“ u. a.): **Commander Jarok**, **Dr. Altor**, **Hiren**, **Nevala**, **Commander Vestra**, **Prelena** (Qowat Milat), Miliz-/Lagerfiguren. Relevanz für „A Starless Night“ nur bei bewusster Rückblende/Referenz; sonst Hintergrund.
+
+## 4) Narasa-Station / Extraktions-Kontext
+**Stack**, **Zazrith**, Nausicaaner/Gorn/Ferengi-Dealer etc. (CSV „Narsana Station“, Logs). Relevanz abhängig von Knox/Echo-Delta-Fäden.
+
+## 5) „A Starless Night“ – bekannte NSCs/Begegnungen (aus verfügbarem Material)
+Quelle: [`../../clear-skies-source/Crew & NPC Overview - NPC Data.csv`](../../clear-skies-source/Crew & NPC Overview - NPC Data.csv), Szenario-Tag **„A starless night“**.
+
+| Name / Eintrag | Typ/Notiz (CSV) | Status |
+|---|---|---|
+| **Orion Brute** | Notable, Attribute/Disciplines/Foci/Equipment vorhanden, Scenario „A starless night“ | bekannt (knapp belegt) |
+| **Ensign Himden** | „female Bolian Science Officer“, Notable, Scenario „A starless night“ | bekannt (knapp belegt) |
+| **(Unbenannter Eintrag, Zeilen 137–142)** | Stats/Foci/Equipment gesetzt, **Character Name leer**, Scenario „A starless night“ | **Lücke:** Identität unklar (möglicher weiterer NSC oder Datenfehler) |
+
+**Antagonisten (Adaption, Prinzip 3):** Tholians – „same ones from scenario 'A Starless Night' (Tholian dreadnaught and Tholian captain)“. Konkrete Namen/Stats jenseits Bildreferenzen im Repo **nicht dokumentiert** → als **bekannter Antagonisten-Rahmen mit offenen Details** behandeln. Siehe [../a-starless-night/known-material.md](../a-starless-night/known-material.md).
+
+## 6) Neu/zu definierende NSCs (empfohlen für Spielabend)
+- **Cetacean Ops officer** (Pflicht) – Persönlichkeit, Interaktionsstil, ggf. Bezug zu Crew/Anomalie.
+- **Weitere Brücken-/Support-Stimmen** zur Belebung (Prinzip 6), falls Tischgröße/Lücken es erfordern.
+- **Tholian captain / weitere Tholian-Rollen**: Darstellung, Motivation (mysteriös; ggf. „nursing“ der Entität unterstützen) – Details offen, innerhalb Prinzipien flexibel.
+
+## Hinweise zur Nutzung
+- Vorhandene CSV-Statblocks anderer Szenarien nicht blind übernehmen; auf Szenario, Ton und 3,5–4h-Rahmen anpassen.
+- Bei Wiederverwendung Hamilton-naher NSCs: Kontinuität zu Logs wahren (Wunden, Vertrauen, offene Fäden), aber Spotlight auf die Tisch-PCs legen.
