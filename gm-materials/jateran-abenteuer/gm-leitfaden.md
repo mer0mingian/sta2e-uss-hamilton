@@ -57,17 +57,17 @@
 
 **Hinweis Sternzeiten:** Ankerpunkte vom SL gesetzt; Zwischenwerte narrativ führen.
 
-### Countdown-Marker (Erklärung & Einsatz)
+### Countdown-Marker (akzeptiert, fix)
 **Was sind Countdown-Marker?** Vorbereitete, vom SL ausgesprochene Zeit-/Ereignis-Ansagen, die den sinkenden Abstand zur „Geburt“ (78600.84) und den dichter werdenden Pulsrhythmus sichtbar machen — ohne spielmechanische Erdbebenschäden. Sie helfen, Szenenwechsel, Dringlichkeit und Prioritäten (Parallel-Tasks, Kontakt) zu takten.
 
-| Marker | Zeitpunkt (relativ) | SL-Ansage (Beispiel) | Zweck / mögliche Auslösung |
+| Marker | Zeitpunkt (relativ) | SL-Ansage (Beispiel) | Zweck / Auslösung |
 |---|---:|---|---|
 | **C1** | Systemeintritt | „Sensoren melden einen einzelnen Subraumstoß — kurz, tief, keinem bekannten Muster zuordenbar.“ | Rätsel, erste Hypothesen |
 | **C1b** | danach | Kolonie: „Erdbeben treten zeitgleich mit solchen Stößen auf. Die Abstände werden kürzer.“ | Bestätigung Rhythmus, Minen ruhen |
 | **C2 / T-8h** | 78600.51 | „Zweiter Puls. Ursprung: verödete Hemisphäre, lokalisierbar. Projektion bleibt unscharf — aber das Fenster schließt sich.“ | Fokus Ort; Vorbereitung Parallel-Tasks |
-| **T-4h** *(optional)* | ca. Mitte | „Die Ruhephasen zwischen den Kompressionen schrumpfen messbar.“ | Zwischen-Update Szene 4/5 |
+| **T-4h** | ca. Mitte | „Die Ruhephasen zwischen den Kompressionen schrumpfen messbar.“ | Zwischen-Update Szene 4/5 |
 | **C3 / T-2h** | 78600.76 | „Langstreckensensoren: tholianisches Schiff, T’Laru. Hält Distanz. Keine Antwort auf Rufe — aber es ist da.“ | Kontakt/Druck, Schutzanspruch |
-| **T-60m** *(optional)* | vor Frist | „Resonanzkopplung steigt. Jede Verzögerung kostet Spielraum.“ | Task-Druck |
+| **T-60m** | vor Frist | „Resonanzkopplung steigt. Jede Verzögerung kostet Spielraum.“ | Task-Druck |
 | **T-0** | 78600.84 | „Das projizierte Fenster ist erreicht. Was immer austritt — jetzt entscheidet sich, wie.“ | Finale Szene 5/6 |
 
 ---
@@ -219,17 +219,14 @@
 
 ---
 
-## 3) T’Muk-Hooks (rekonstruiert aus Titeln/Themen — zur Bestätigung/Platzierung)
+## 3) T’Muk-Plotline (festgelegt)
 
-> **Hinweis:** Die drei Hook-Titel wurden in der früheren Ideation genannt, die Detailformulierungen sind in den Projektdateien nicht gespeichert. Unten stehende Beschreibungen sind **arbeitsfähige Rekonstruktionen** entlang Titel, Missionskern und `player-wishes.md` (Ingenieurskunst/„Schmiede“, Ehre, Vaterrolle, Innovation, Klingonen- vs. Sternenflottenkodex). Bitte bestätigen/ändern.
+**Entscheidung:** Keine direkten Trigger für T’Muk. Es wird nur die Plotline **„Die Wiege aus dem Nichts“** geführt (optional nutzbar, spielergetrieben).
 
-| Hook | Kernidee (Wirkung für T’Muk) | Trigger / Spielwirkung | Vorschlag Szene |
-|---|---|---|---|
-| **1) „Die Wiege aus dem Nichts“** | T’Muk erkennt/gestaltet die Bedingungen, unter denen Leben sicher „ankommen“ kann (Nursery/Korridor als Wiege). Verbindet Ingenieursdenken mit Fürsorge/Vaterrolle (neues Leben schützen statt nur Maschinen zu beherrschen). | Moment in Task 1 oder Ködersignal: ein scheinbar lebloser Datensatz/Raumabschnitt erweist sich als passender Zufluchtsort — T’Muk gibt dem „Nichts“ Sinn/Form. | **Szene 5** (Nursery-Suche/Breakthrough) oder Übergang 5→6 |
-| **2) „Der Schmied des ersten Atems“** | T’Muk als **Schmied** des Austrittsfensters: präzise, kraftvolle, improvisierte Lösung (Kaiserschnitt/Resonanz/Struktur) unter Zeitdruck. Ehrt klingonische Handwerks-Ehre durch Rettung statt Zerstörung. | Kritischer Ingenieursmoment in Task 2 (Breakthrough/letzter Versuch) oder Stabilisierung des Köderpfads; Chance, sich vor Vozrax’ prüfendem Blick zu beweisen. | **Szene 5** (Kaiserschnitt/Finale des Tasks) |
-| **3) „Der Eid des Assemblers“** | Echo auf Vozrax („Assembler“): ein stilles/ausgesprochenes Gelöbnis oder Anerkennung — T’Muk beweist, dass Stärke Schutz und Verantwortung tragen kann (Brücke zwischen klingonischem Kodex, Sternenflotte, kommender Vaterrolle). | Kontaktmoment Szene 4 oder Abschluss Szene 6: Vozrax’ Prüfung/Anerkennung zielt auf T’Muk; Malax bleibt Fokus der Forderung, T’Muk wird als würdiger Handelnder gesehen. | **Szene 4** (Prüfung) und/oder **Szene 6** (Nachhall) |
+**Plotline „Die Wiege aus dem Nichts“ (Kern):** T’Muk erkennt/gestaltet Bedingungen, unter denen neues Leben sicher „ankommen“ kann — die Nursery bzw. der Weg/Korridor dorthin als **Wiege**. Ingenieursdenken verbindet sich mit Fürsorge/Vaterrolle (Schutz statt nur Beherrschung von Maschinen).  
+**Mögliche Anknüpfung (ohne direkten Trigger):** bei Task 1 („Eine Wiege finden“), bei der Idee/Umsetzung des **Ködersignals** oder im Übergang Szene 5→6, wenn ein scheinbar lebloser Datensatz/Raumabschnitt als passender Zufluchtsort Sinn erhält. Ob und wie T’Muk diesen Faden aufgreift, bleibt den Spieler:innen überlassen.
 
-**Offen:** exakte Formulierungen, 1–2 Hooks verbindlich auswählen, Beteiligte (T’Muk solo / mit Engineering / mit Alpha-Crew / mit Vozrax).
+**Kontext (Hintergrund, kein Script-Trigger):** Vozrax tritt drohend auf Abstand auf und würde T’Muk Gelegenheit geben, sich zu beweisen; die Szene darf dies atmosphärisch spiegeln, soll T’Muk aber nicht zu einer Pflichtaktion drängen.
 
 ---
 
@@ -254,19 +251,18 @@
 | Bestehende NSCs identifiziert (Randall, Hawkins u. a.) | bereit | NSC-Tabelle |
 | Jateran-NPCs, Jateran-System-Details, Blackwater-Briefing-Kontext, soziale Dynamik | **teilbereit** | Comms-Platzhalter/Jateran-NSCs neu; System/Briefing ausbauen |
 | STA 2e Tasks/Traits/Stats, Scientific Method (Erweiterung) | **offen** | nach Regel-Input integrieren |
-| T’Muk-Hooks final (Texte/Platzierung) | **rekonstruiert, offen** | Abschnitt 3 |
+| T’Muk-Plotline | **festgelegt** (nur „Die Wiege aus dem Nichts“, keine direkten Trigger) | Abschnitt 3 |
 | Knox-Log final abgenommen | **Entwurf fertig** | Szene 1 |
 
 ---
 
-## 5) Offene Punkte für nächstes Grilling
-1. Countdown-Feintaktung: feste Marker pro Szene 3–5 (nur C1/C2/C3/T-0 oder zusätzliche T-4h/T-60m)?
-2. Voxrax-Formulierungen Szene 4 (genauer Wortlaut) und Eskalationsschwelle Szene 5.
-3. T’Muk-Hooks: Bestätigung der Rekonstruktion, Auswahl/Platzierung 1–2 verbindlich, konkrete Triggertexte.
-4. Nursery-Sensorbild final bestätigen (harmonische Resonanz/vegetative Signatur) — was exakt wahrnehmbar?
-5. Jateran-Systembeschreibung, Jateran-NSC-Namen/-Traits, Blackwater-Briefing (Kurztext), soziale Dynamik-Beats.
-6. Ködersignal als konkreter Task/Challenge (Attribute/Departments, Difficulty) nach Spielerpräferenz/Scientific Method.
-7. STA-2e-Werteblöcke (Traits, Complications, Momentum/Threat-Vorschläge) für Schlüsselszenen.
+## 5) Offene Punkte / in Arbeit
+1. **Countdown-Marker:** akzeptiert/fix (C1, C1b, C2/T-8h, T-4h, C3/T-2h, T-60m, T-0).
+2. **T’Muk-Plotline:** nur **„Die Wiege aus dem Nichts“**, keine direkten Trigger (spielergetrieben).
+3. **Vozrax-Formulierungen Szene 4** (genauer Wortlaut) und **Eskalationsschwelle Szene 5** weiter schärfen.
+4. **Nursery-Sensorbild** final bestätigen (harmonische Resonanz/vegetative Signatur) — was exakt wahrnehmbar?
+5. **Regelbasierte Bausteine (in Arbeit, Subagents):** STA-2e Tasks/Traits/Komplikationen/Momentum-Threat-Vorschläge, NSC-Werte/Traits, Ködersignal als Task/Challenge, Jateran-System/Blackwater-Briefing/soziale Dynamik — auf Basis vorhandener Regeltexte (`regel-bausteine.md`, `setting-nscs-und-dynamik.md`, danach Integration).
+6. **Scientific Method (Erweiterungsband):** Integration nach deiner Lieferung.
 
-*Was ausgelassen/geändert:* T’Muk-Hooks mangels gespeicherter Originalformulierungen rekonstruiert (transparent markiert). „Bassengraben nahe der romulanischen Grenze“ aus deiner Vorgabe übernommen (Bezeichnung ggf. später an Kanon/Hamilton-Material angleichen). Scientific-Method-Regeln stehen noch aus.  
-*Risiko:* Ohne finale Hook-Texte, Voxrax-Wortlaut und Countdown-Feintaktung können Szenen 4–5 im Spieltempo uneinheitlich wirken.
+*Was ausgelassen/geändert:* „Bassengraben nahe der romulanischen Grenze“ aus Vorgabe übernommen (Bezeichnung ggf. angleichen). Scientific-Method-Regeln stehen noch aus.  
+*Risiko:* Bis regelbasierte Bausteine integriert und Vozrax-Wortlaut/Nursery-Sensorbild final sind, bleiben Details in Szenen 4–6 noch anpassbar.
