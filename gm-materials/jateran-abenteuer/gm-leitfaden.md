@@ -162,10 +162,12 @@
 - Vozrax will **T’Muk** Gelegenheit geben, sich zu **beweisen** (Ehre/Kompetenz als Ingenieur/Schmied im Angesicht der „Geburt“).
 - Vozrax weiß um **Malax’ zukünftige Rolle im temporalen Kalten Krieg** (nur Hintergrundmotivation für Vertrauen/Fokus auf Malax; **kein Reveal** an Crew).
 
-**Kontakt-Beat (Beispiel, SL anpassen):**
+**Kontakt-Beat (Vorschlag, technisch-kryptisch; SL anpassen):**
 - **Hawkins/Randall (NSC):** „Kontakt. Tholianisches Schiff, Distanz wird gehalten. Waffenstatus unklar — sie zeigen Präsenz, keine Annäherung.“
-- **Vozrax (Comms, knapp, übersetzt/distanziert):** „Hamilton. Ihr kommt zur Schwelle. Malax — ihr werdet beobachtet. Beweist, dass eure Föderation mehr ist als Zerstörung.“ *(drohend, aber kein sofortiger Angriff)*
-- Bei Technik-/Lösungsansprache Richtung T’Muk (wenn Spieler es anbieten): Vozrax kann einen prüfenden, knappen Hinweis geben, der **T’Muk** herausfordert (Respekt durch Prüfung), ohne Hilfe zu erklären. *Beispielton:* „Assembler hört, wenn Metall und Wille sprechen. Zeig, ob du die Geburt führen kannst, ohne zu zerbrechen.“
+- **V1 — Erstkontakt (Pflichtton, übersetzt fragmentarisch):** „Hamilton-Vektor: erfasst. Malax-Signatur: innerhalb dieses Intervalls bestätigt. An der Schwelle einer Phasen-Transzendenz wird euer Muster geprüft. Beweist: propagiert eure Föderation Kohärenz — oder Bruch?“ *(drohend, distanziert, keine Erklärung)*
+- **V2 — Warnung bei aggressiver Annäherung/Signatur (E1→E2):** „Interferenz-Amplitude steigt. Jeder Impuls, der Fraktur trägt, koppelt an das Unabgeschlossene. Abstand halten. Stabilität demonstrieren — nicht Kraft.“
+- **V3 — Prüfung des Vorgehens (atmosphärisch, optional; kein direkter T’Muk-Trigger):** „Sprache: geringe Dichte. Verfahren, das Phasenintegrität wahrt, ohne das Gitter zu zerreißen — solche Muster sind selten. Zeigt Messbarkeit statt Absicht.“
+- **Regie:** Tholianer sprechen aus anderer Zeit-/Materiallogik (kristallin, lange Zyklen); die reifende Entität bleibt unaussprechlich/heilig-mysterisch, nie direkt benannt oder erklärt. V3 kann als Resonanz auf einen sorgfältigen technischen Ansatz wirken, ohne eine Figur zu verpflichten.
 
 **Übergang Szene 5:** Frist rückt näher (T-60m/T-0); Teams teilen sich auf Parallel-Tasks.
 
@@ -196,9 +198,12 @@
 - **Janice Randall:** Timing/Protokoll/Übergaben („Noch zwei Stunden bis zum projizierten Fenster — T’Laru hält Position.“)
 - **Lt. Maren (Backup):** nur wenn Puls/Resonanz von T’Muk/Alpha-Crew nicht erkannt wird.
 
-#### Eskalation (moderat)
-- T’Laru bleibt auf Abstand, kann drohen (Sensorauflockung, Warnsignal, kurze Waffenaufschaltung als Geste) bei wahrgenommener Aggression gegen Entität.
-- Kooperation möglich, wenn Hamilton Schutz/Austritt glaubhaft sicherstellt; Vozrax prüft **T’Muk**.
+#### Eskalation (moderat, E0–E3)
+- **E0 Beobachtung:** Distanz, Tracking, Funkstille/knappe Signale.
+- **E1 Drohpräsenz:** Sensorauflockung, Sichtposition, Warnsignale (Trigger: schnelle Annäherung, laute aktive Scans, Waffen laden, unklare Manöver).
+- **E2 Aktive Warnung (rote Linie):** kurze Waffenaufschaltung/-geste, Interferenzspitze, **V2** (Trigger: Zielerfassung/direkter Kurs auf T’Laru, Eingriff wirkt wie Angriff auf Entität/Austritt). Deeskalation: Abstand, defensive Haltung, Schutzplan transparent machen.
+- **E3 Begrenzte Konfrontation** (nur bei anhaltender Aggression/Gefährdung der Entität): Warnschuss/Behinderung, kurzer Beat; Rückkehr zu E1/E2 möglich. Kein großflächiger Raumkampf.
+- Kooperation bleibt möglich, wenn Hamilton Schutz/Austritt glaubhaft sicherstellt; Vozrax’ Prüfung bleibt atmosphärisch (kein direkter T’Muk-Trigger).
 
 **Übergang Szene 6:** Task 2 erreicht Fenster/Erfolg, Köder wirkt, Kurs aus Task 1 steht → Austritt/Transit.
 
@@ -213,7 +218,7 @@
 
 **Unklar lassen:** warum diese Welt passt, Herkunft der Entitäten/Nursery, Umfang tholianischer Riten/Theologie, Zahl früherer Entitäten.
 
-**Vozrax/T’Laru Abschluss (Beispielton):** kurzer Abstandskontakt/Anerkennung bei gelungenem Schutz; kein Bündnis, kein vollständiges Vertrauen. Anerkennung kann T’Muks Leistung implizit würdigen (*„Der Schmied hat den Weg gehalten.“* — nur wenn passend).
+**Vozrax/T’Laru Abschluss (optional, kryptisch):** kurzer Abstandskontakt bei gelungenem Schutz; kein Bündnis, kein vollständiges Vertrauen. *Beispiel (V4):* „Bruch: ausgeblieben. Dieses Intervall wird im Gitter erinnert — jenseits eurer Zählung.“ (Bedeutung offen; keine Anerkennung bestimmter Personen erzwingen.)
 
 **Übergang/Ende:** Logbucheintrag/kurzer Epilog, offene Fragen (Malax/Vozrax) bleiben Mysterium.
 
@@ -250,7 +255,7 @@
 | Cetacean Ops **Lt. Maren** inkl. Backup-Rolle | bereit | Deckblatt, Szenen 2/3/5 |
 | Bestehende NSCs identifiziert (Randall, Hawkins u. a.) | bereit | NSC-Tabelle |
 | Jateran-NPCs, Jateran-System-Details, Blackwater-Briefing-Kontext, soziale Dynamik | **Entwurf vorhanden** | `setting-nscs-und-dynamik.md` erstellt (System, Blackwater-Briefing, 3 Jateran-NSCs, Dynamik-Beats) — prüfen/integrieren |
-| STA 2e Tasks/Traits/Stats, Scientific Method (Erweiterung) | **teilbereit** | `regel-bausteine.md` erstellt (Tasks, Extended Tasks, Ködersignal-Varianten, Complications/Momentum/Threat, NSC-Vorlagen) — ohne Scientific Method; prüfen/integrieren |
+| STA 2e Tasks/Traits/Stats, Scientific Method (Exploration Guide Ch. 01) | **teilbereit** | `regel-bausteine.md` erstellt (Tasks, Extended Tasks, Ködersignal-Varianten, Complications/Momentum/Threat, NSC-Vorlagen) — Scientific Method **nur Punkt 1** (Szene 3) vorgesehen, Integration offen |
 | T’Muk-Plotline | **festgelegt** (nur „Die Wiege aus dem Nichts“, keine direkten Trigger) | Abschnitt 3 |
 | Knox-Log final abgenommen | **Entwurf fertig** | Szene 1 |
 
@@ -259,10 +264,10 @@
 ## 5) Offene Punkte / in Arbeit
 1. **Countdown-Marker:** akzeptiert/fix (C1, C1b, C2/T-8h, T-4h, C3/T-2h, T-60m, T-0).
 2. **T’Muk-Plotline:** nur **„Die Wiege aus dem Nichts“**, keine direkten Trigger (spielergetrieben).
-3. **Vozrax-Formulierungen Szene 4** (genauer Wortlaut) und **Eskalationsschwelle Szene 5** weiter schärfen.
+3. **Vozrax-Formulierungen/Eskalation:** technisch-kryptische Entwürfe (V1–V4) und Schwellen (E0–E3) in Szene 4/5 eingearbeitet — Tonfall/Feinschliff nach Abnahme.
 4. **Nursery-Sensorbild** final bestätigen (harmonische Resonanz/vegetative Signatur) — was exakt wahrnehmbar?
-5. **Regelbasierte Bausteine (Entwürfe vorhanden):** `regel-bausteine.md` (Subagent 1 abgeschlossen) und `setting-nscs-und-dynamik.md` (Subagent 2 abgeschlossen) liegen vor — Fachprüfung und gezielte Integration in den Leitfaden offen.
-6. **Scientific Method (Erweiterungsband):** Integration nach deiner Lieferung.
+5. **Regelbasierte Bausteine (Entwürfe vorhanden):** `regel-bausteine.md` und `setting-nscs-und-dynamik.md` liegen vor — Fachprüfung und gezielte Integration in den Leitfaden offen.
+6. **Scientific Method (Exploration Guide Ch. 01):** **nur für Punkt 1** einsetzen (Szene 3, Pulsrätsel/Hypothesenschleife: Observe → Obtain Information → Hypothese 1×/Szene → Test). Keine Anwendung auf „Eine Wiege finden“/ET2/Ködersignal als Hypothesentest. Integration in Bausteine/Leitfaden nach Abnahme.
 
 *Was ausgelassen/geändert:* „Bassengraben nahe der romulanischen Grenze“ aus Vorgabe übernommen (Bezeichnung ggf. angleichen). Scientific-Method-Regeln stehen noch aus.  
 *Risiko:* Bis regelbasierte Bausteine integriert und Vozrax-Wortlaut/Nursery-Sensorbild final sind, bleiben Details in Szenen 4–6 noch anpassbar.
