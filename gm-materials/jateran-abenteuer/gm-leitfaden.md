@@ -1,112 +1,272 @@
-# GM-Leitfaden: Jateran / Kristalline Entität (Arbeitstitel)
+# GM-Leitfaden: „Wehen unter Jateran“ (Arbeitstitel)
 
-**Status:** Arbeitsfassung (vorbereitet 2026-11-17). Deutsch außer Game Terms (Stats, Talents, Species Abilities; Focuses ggf. Deutsch). Namen ggf. Englisch.
+**Status:** Arbeitsfassung mit vorformulierten Texten (2026-11-17).  
+**Sprache:** Deutsch, außer Game Terms (Stats, Talents, Species Abilities; Focuses ggf. Deutsch). Namen/Eigennamen ggf. Englisch.  
+**Format:** One-Shot, ca. **3,5–4 h**, moderates Würfeln, **kein planetarer Politik-Plot**.
 
-**Quellen/Bezug:** `../../clear-skies-source/CONTEXT.md`, `../../clear-skies-source/CAMPAIGN_PRINCIPLES.md`, `../scenario-support/supportive-source.md`, `../npcs/known-npcs.md`, `../player-characters/available-pcs.md`, `../../clear-skies-source/Crew & NPC Overview - NPC Data.csv`.
+**Quellen:** `../../clear-skies-source/CONTEXT.md`, `../../clear-skies-source/CAMPAIGN_PRINCIPLES.md`, `../scenario-support/supportive-source.md`, `../npcs/known-npcs.md`, `../player-characters/available-pcs.md`, `../../player-wishes.md`, `../../clear-skies-source/Crew & NPC Overview - NPC Data.csv`.
 
-## 1) Überblick
-- **Format:** One-Shot, ca. **3,5–4 h**, moderates Würfeln, **kein planetarer Politik-Plot**.
-- **Kern:** Kristalline Entität kurz nach Ankunft als Ursache erkennbar machen; **sicheren Austritt ohne Planetenzerstörung** ermöglichen; Entität zur **Nursery** bringen. Tholians (**T’Laru**, **Vozrax/„Assembler“**) ambivalent (Schutz/„Nursing“ möglich, Eskalation möglich).
-- **Tisch-PCs:** Captain **Malax**, CMO **Dr. T’Laar**, Operations/Science **Yorin Jaela**, Chief Engineer **T’Muk**. **Mendox** (Security Chief) Pause. **First Officer (Knox)** durch SL spielbar.
-- **Pflicht-NSCs:** **Lt. Maren** (Cetacean Ops, Navigation/Science-Support, formelle Wortwahl, melodische Stimme).
+---
 
-## 2) Kanonische Prämissen (gesetzt)
-- **Jateran:** Lithium-Bergbaukolonie, **Beta-Quadrant, äußerster Rand der Föderation (noch innerhalb)**, bekannte Spezies/früher Föderationskontakt. Geteilte Hemisphären: eine verödet (frühere Entität/Kristallformationen). **Zunehmende Erdbeben** korrelieren mit Subraumpulsen („Wehen“). Leben/Betrieb primär auf abgewandter Seite; Minen ruhen bei zunehmender Aktivität (keine spielrelevanten Bebenfolgen durch Planetengröße/Lage).
-- **Entität:** Reifung erzeugt **Dilithium**; Austritt aus Planetenoberfläche steht bevor. **Risiko/Einwand (Crew):** Entität ernährt sich von **kohlenstoffbasierten Verbindungen** an der Planetenoberfläche und **könnte die Kolonie angreifen** → Suche nach Zuhause/Nursery **und** Entwicklung eines **Ködersignals** nötig (spielergetriebene Lösung).
-- **Nursery:** **Planet mit hohem Pflanzenanteil, aber keinem (bzw. möglichst keinem) intelligenten Leben**; Bedingungen passend, aber rätselhaft. Tholianisches Interesse an Schutz/„Nursing“ möglich; Herkunft/genaue Eignung/tholianische Überlieferung bleiben mysteriös. **Planetenklasse (Star-Trek-Kanon, Arbeitswahl):** **Class L** (marginal habitabel, oft sauerstoff-/argonhaltige Atmosphäre, **reichlich Vegetation, wenig bis kein indigenes Tierleben / keine indigenen Zivilisationen** je nach Darstellung; passt zu „flora-dominant, kein intelligentes Leben“). *Hinweis:* Kanon ist teils inkonsistent (einige L-Welten bewohnt); für dieses Abenteuer als **unbewohnte, pflanzenreiche Class-L-Welt** festlegen.
-- **Tholians:** T’Laru / Vozrax trauen Malax (frühere Kooperation), wollen Frieden wahren und als Beschützer auftreten; zugleich Trauma: Enterprise-D als „Mörderin“ kristalliner Entität (tholianische Sicht). T’Laru kommt **vor** dem Austritt, um bei „Geburt“ anwesend zu sein und Entität ggf. zu schützen, falls Föderation aggressiv vorgeht.
+## 0) Deckblatt & Kernfakten
 
-## 3) Zeitlinie & Sternzeiten (korrigiert/gesetzt)
-| Zeitpunkt | Sternzeit / Datum | Ereignis |
-|---|---:|---|
-| Ende letzte Mission | **78402.08** (27.05.2401, 18:15h) | Missionsende (Referenz) |
-| Erde / Zwischenzeit | + ca. 2 Wochen | Crew ca. 2 Wochen auf Erde |
-| Hook / Aufbruch | ca. 78402 + ~2 Wochen | Funkspruch Vozrax → Blackwater-Befehl, Aufbruch Richtung Jateran |
-| Reise | ca. **8 Wochen** | Transit (Babyparty möglich) |
-| **Spielbeginn (Szene 1)** | **78581.66** | Ca. **7 Wochen** nach Reisebeginn / ca. **9 Wochen** nach Missionsende; Knox-Log |
-| Systemeintritt / Puls 1 | ca. **letzte Woche vor Ankunft** (Annäherung) | Hamilton empfängt **1. Subraumpuls** beim Eintritt ins System |
-| Puls 2 (Lokalisation) | **78600.51** (≈ **8 h vor 78600.84**) | **2. Puls**, hilft Lokalisation auf verödeter Seite; ca. **2 h vor Eintreffen T’Laru** |
-| **Eintreffen T’Laru** | **78600.76** (≈ **2 h vor 78600.84**, Zielwert) | T’Laru kommt vor „Geburt“ (Schutz/Beobachtung) |
-| **Ankunft/Frist („Geburt“)*** | **78600.84** | Hamilton soll ankommen; Zeitpunkt kurz vor Austritt; kritisches Fenster |
+### Kern der Mission
+- **Hook:** Vozrax (Tholian, Captain der **T’Laru**, „Assembler“) sendet an Starfleet nur: **T’Laru, Captain Malax, Sternzeit, Ort Jateran**. **Admiral Blackwater** befiehlt der USS Hamilton den Einsatz.
+- **Einstieg:** Knox-Computerlog (Szene 1) → Babyparty/Reisecharakterspiel (Szene 2).
+- **Ziel:** Kristalline Entität sicher aus Jateran hervortreten lassen (**ohne Planetenzerstörung**), Bedrohung der Kolonie durch **Ködersignal**/Umleitung mindern, Entität zur **Nursery** bringen.
+- **Nursery:** **unbewohnte Class-L-Welt**, flora-dominant, **kein (bzw. möglichst kein) intelligentes Leben**, mysteriös (Herkunft/genaue Eignung/tholianische Überlieferung unklar). *Kanonhinweis:* Class L oft pflanzenreich, wenig/kein indigenes Tierleben; Darstellung variiert — hier bewusst unbewohnt.
+- **Antagonisten (ambivalent):** Tholians **T’Laru / Vozrax** — Schutz/„Nursing“ möglich, Eskalation möglich. Tholianische Sicht: kristalline Entitäten gottgleich; Enterprise-D als „Mörderin“ einer Entität (Trauma). **Kontakt:** drohend, aber **auf Abstand**.
 
-> \*Konkrete Feintaktung (Szenen 3–6, exakte Intervall-Uhr) am Tisch an Tempo anpassen. Sternzeit-Arithmetik narrativ handhaben.
+### Tisch-Setup
+- **Spielercharaktere (nicht als Hinweis-Sprecher einsetzen):** **Malax** (Captain), **Dr. T’Laar** (CMO), **Yorin Jaela** (Chief of Operations/Science), **T’Muk** (Chief Engineer).
+- **SL-Rolle:** **Cmdr. Robert Knox** (First Officer, spielbar).
+- **Abwesend:** **Mendox** (Security Chief, Pause).
+- **Pflicht-NSC:** **Lt. Maren** (Delphin, Cetacean Ops Navigation/Science-Support, formelle Wortwahl, **melodische Stimme**). Backup-Hinweis bei Pulsdeutung nur falls T’Muk/Alpha-Crew nicht erkennen.
 
-## 4) Subraumpulse & Spannungsaufbau (Vorschlag, übernommen/angepasst)
-- **Puls 1 (Systemeintritt):** kurzer, tieffrequenter Stoß, schwer klassifizierbar (erstes „Wehen“-Zeichen, uninterpretierbar).
-- **Puls 2 (≈ 78600.51, 8 h vor Frist):** klarerer Ursprung **verödete Seite**; Muster wirkt nicht zufällig-geologisch/technisch eindeutig; unterstützt Lokalisation.
-- **Kolonistenberichte (laufend):** Erdbeben **zeitgleich** mit Stößen, **Abstände kürzer werdend**, Intensität schwankend; Minen ruhen. Keine spielrelevanten Schadensfolgen, aber Warte-/Countdown-Gefühl.
-- **Sensor-Textur (Szenen 3–5):** „periodische Kompression“, „nachlassende Ruhephase“, „wachsende Kopplung“; projiziertes Fenster um **78600.84**. T’Laru-Eintreffen **~2 h vorher** erhöht Druck (Beobachter/Schutzmacht).
-- **Tischmittel:** 1–2 Live-Meldungen + 2–3 kurze Updates als Countdown-Marker pro Szene.
+### Bestehende NSCs (Hamilton/CSV, für Sprecher & Szenenleben — keine Spieler)
+| NSC | Rolle | Quelle | Einsatzidee |
+|---|---|---|---|
+| **Janice Randall** | Yeoman 1st class, Adjutant des Captains | CSV „Crew“ | Brücken-/Alltagsupdates, Logistik, Übergaben, dezente Hinweise |
+| **James Hawkins** | Flight Controller, Ensign | CSV „Crew“ | Fluglage, Anflug, Sensor-/Navigationskommentare, Countdown-Callouts |
+| **Dr. Zenn Iral** | Counselor/Commander (Kontext) | CSV/Logs | Risiko für Personen/Kolonie, emotionale Lage, ethischer Einwand |
+| **Zhara ch’Thari** | Andorian, Operations/Support | Logs/known-npcs | Ops-/Scan-Unterstützung, Stationsabgleich |
+| **Dr. Ethan Carter** | Human, Science Officer | Logs/known-npcs | wissenschaftliche Muster/Scan-Hinweise |
+| **Marlin Vionn** | Trill, Science Officer | Logs/known-npcs | Resonanz-/Datenanalyse (falls anwesend) |
+| **Ozyrrian 'Ozzy' th'Arilith** | Andorian CPO, Security | Logs/known-npcs | Sicherheitslage, Evakuierungsdenken (Hintergrund) |
+| **Admiral Blackwater** | Auftraggeber (extern) | CSV/Logs | Befehlskontext (Log/Comms-Referenz) |
+| **Gi’ral** | Klingonische Sonderbotschafterin, schwanger | Logs/player-wishes | Babyparty, Schwimm-Moment |
 
-## 5) Szenenleitplan (6 Szenen)
+> **Neu/zu definieren (für Spielabend):** Jateran **Kolonist:in** (Comms), **Bergbauleitung Jateran** (Comms), ggf. weitere Brückenstimmen. Details/Stats bei Bedarf ergänzen.
 
-### Szene 1 — Knox-Log & Auftrag (ca. 20–30 s Einspielung)
-- **Form:** Computerlogbuch **Cmdr. Robert Knox** (sachlich, distanziert).
-- **Inhalt:** Voxrax-Nachricht an Starfleet Command enthält nur **T’Laru, Captain Malax, Sternzeit, Ort Jateran**. Blackwater-Befehl an Hamilton. Tholians lehnen weitere Kommunikation ab; Übersetzung nur dank **Dr. T’Laar**s Übersetzungsmatrix. Voxrax: *„Nur Malax darf beweisen, dass die Föderation Ehre besitzt und nicht nur Mörder sind.“* Ziel/Motiv tholianisch **mysteriös**.
-- **Persönlich (Knox):** Keine Nachricht zum Verbleib seiner lange verschollenen Schwester (Bassengraben nahe romulanischer Grenze). Crew fühlt sich langsam vertrauter an; er freut sich auf den Zuwachs.
-- **GM-Notiz:** Kein Hinweis auf „Entität/Wehen“ nötig; Neugier/Dringlichkeit über Unwissen.
+---
 
-### Szene 2 — Babyparty & Reise (ca. 20 min Charakterspiel)
-- **Setting:** Von Spieler:innen gestaltet; alle SC anwesend + einige NSCs.
-- **Klingonisches Ritual (Bonding T’Muk ↔ Knox):** *Vorschlag (spielbar, respektvoll adaptiert, kein kanonisch benanntes „Babyshower“-Ritual):* **„Vovwl’ qeylIS“ – Segen des kommenden Kriegers** (Arbeitsname). Kurzer, feierlich-ernster Moment:
-  1. **Ruf & Antwort:** T’Muk benennt Stärke/Mut des ungeborenen Lebens (klingonisch geprägt, kurz); Knox antwortet als Gast/Offizier mit Respekt (eigene Worte oder Wiederholung einer Zeile).
-  2. **Gemeinsamer Stand (Bonding):** Unterarmgriff/Standprobe (kontrolliert, nicht verletzend) oder gemeinsames Halten eines symbolischen Gegenstands (z. B. leere Schale/Trinkgefäß) als Zeichen von Verantwortung füreinander.
-  3. **Gelöbnis:** Beide sprechen einen kurzen Wunsch (Schutz, Ehre, Platz in der Familie/Crew) — T’Muk führt, Knox geht darauf ein (klingonische Direktheit trifft föderale Zurückhaltung).
-  - *Ton:* warm, respektvoll, etwas fremd; Dauer 2–4 min im Spiel.
-- **Teaser:** Intensität klingonischer Wehen (T’Laar/Gi’ral/Kontext mit Spieler:innen abstimmen).
-- **Gi’ral-Schwimmen (Abend danach, Arboretum):** Gi’ral spaziert, zieht sich plötzlich aus, springt ins Becken (gleichzeitig Cetacean-Quartier; muss Spieler:innen nicht sofort klar sein). Erklärt klingonische Wehen als intensiv, schmerzhaft, aber auch lustvoll. **Lt. Maren** taucht auf, „bedankt“ sich formell-melodisch für den nächtlichen Besuch (ruhiger Charaktermoment).
+## 1) Chronologische Master-Timeline
+
+| Marker | Sternzeit / Zeit | Ereignis | Szenenbezug |
+|---|---:|---|---|
+| M0 | **78402.08** (27.05.2401, 18:15h) | Ende letzte Mission | Vorgeschichte |
+| M1 | + ca. 2 Wochen | Crew auf Erde | Vorgeschichte |
+| M2 | danach | Funkspruch **Vozrax** → **Blackwater**-Befehl, Aufbruch nach Jateran | Hook |
+| M3 | ca. 8 Wochen Transit | Reise, Babyparty möglich | Szene 2 |
+| **S1** | **78581.66** (ca. 7 Wochen Reise / 9 Wochen nach M0) | **Knox-Computerlog** (Spielbeginn) | Szene 1 |
+| S2 | Abend nach Babyparty (Transit) | **Gi’ral schwimmt** im Arboretum/Cetacean-Becken, trifft **Lt. Maren** | Szene 2 Epilog |
+| C1 | letzte Woche vor Ankunft (narrativ) | **Puls 1** beim Systemeintritt (uninterpretierbar) | Szene 3 Einstieg |
+| C2 / **T-8h** | **78600.51** (≈ 8 h vor 78600.84) | **Puls 2**: Lokalisation verödete Seite; Kolonie meldet synchrone, häufiger werdende Erdbeben | Szene 3→4 Druck |
+| C3 / **T-2h** | **78600.76** (≈ 2 h vor 78600.84) | **T’Laru** trifft ein (drohend, auf Abstand), will bei „Geburt“ anwesend sein | Szene 4 |
+| **T-0** | **78600.84** | Ankunfts-/Fristfenster kurz vor Austritt („Geburt“) | Szene 5 Höhepunkt → 6 |
+
+**Hinweis Sternzeiten:** Ankerpunkte vom SL gesetzt; Zwischenwerte narrativ führen.
+
+### Countdown-Marker (Erklärung & Einsatz)
+**Was sind Countdown-Marker?** Vorbereitete, vom SL ausgesprochene Zeit-/Ereignis-Ansagen, die den sinkenden Abstand zur „Geburt“ (78600.84) und den dichter werdenden Pulsrhythmus sichtbar machen — ohne spielmechanische Erdbebenschäden. Sie helfen, Szenenwechsel, Dringlichkeit und Prioritäten (Parallel-Tasks, Kontakt) zu takten.
+
+| Marker | Zeitpunkt (relativ) | SL-Ansage (Beispiel) | Zweck / mögliche Auslösung |
+|---|---:|---|---|
+| **C1** | Systemeintritt | „Sensoren melden einen einzelnen Subraumstoß — kurz, tief, keinem bekannten Muster zuordenbar.“ | Rätsel, erste Hypothesen |
+| **C1b** | danach | Kolonie: „Erdbeben treten zeitgleich mit solchen Stößen auf. Die Abstände werden kürzer.“ | Bestätigung Rhythmus, Minen ruhen |
+| **C2 / T-8h** | 78600.51 | „Zweiter Puls. Ursprung: verödete Hemisphäre, lokalisierbar. Projektion bleibt unscharf — aber das Fenster schließt sich.“ | Fokus Ort; Vorbereitung Parallel-Tasks |
+| **T-4h** *(optional)* | ca. Mitte | „Die Ruhephasen zwischen den Kompressionen schrumpfen messbar.“ | Zwischen-Update Szene 4/5 |
+| **C3 / T-2h** | 78600.76 | „Langstreckensensoren: tholianisches Schiff, T’Laru. Hält Distanz. Keine Antwort auf Rufe — aber es ist da.“ | Kontakt/Druck, Schutzanspruch |
+| **T-60m** *(optional)* | vor Frist | „Resonanzkopplung steigt. Jede Verzögerung kostet Spielraum.“ | Task-Druck |
+| **T-0** | 78600.84 | „Das projizierte Fenster ist erreicht. Was immer austritt — jetzt entscheidet sich, wie.“ | Finale Szene 5/6 |
+
+---
+
+## 2) Szenenstruktur (chronologisch, mit Übergängen & Texten)
+
+### Szene 1 — Knox-Log (Einstieg)
+**Zeit:** 78581.66 (S1). **Dauer:** 20–30 s Einspielung + kurze Reaktion.  
+**Ort/Form:** Sternenflotten-Computerlog, Off-Stimme/Anzeige Knox.  
+**Ziel:** Auftrag, Mysterium (Malax/Vozrax/Ziel), persönliche Note, schneller Start.  
+**Übergang nach Szene 2:** Blende/Zeitsprung in laufenden Transit, Babyparty-Vorbereitung.
+
+**Vorlesetext (Knox, sachlich-distanziert, ca. 25 s):**
+> „Computerlogbuch, Commander Robert Knox, Sternzeit 78581.66.  
+> Starfleet Command hat eine kurze Übertragung von tholianischer Seite erhalten. Absender: Captain Vozrax, Schiff T’Laru. Inhalt beschränkt auf: Schiff, Captain Malax, Sternzeit, Ort — Jateran. Weitere Kommunikationsversuche wurden abgelehnt. Die Übersetzung liegt nur dank der Matrix von Doktor T’Laar vor.  
+> Admiral Blackwater weist die USS Hamilton an, zum genannten Zeitpunkt einzutreffen. Der Wortlaut der Nachricht: ‚Nur Malax darf beweisen, dass die Föderation Ehre besitzt und nicht nur Mörder sind.‘  
+> Persönliche Anmerkung: Aus dem Bassengraben nahe der romulanischen Grenze gibt es weiterhin keine Nachricht zum Verbleib meiner Schwester. Die Crew an Bord wirkt… mit der Zeit vertrauter. Ich sehe dem Zuwachs mit Zuversicht entgegen. Ende des Eintrags.“
+
+**GM-Hinweise:** Kein Entitäts-Hinweis. Frage im Raum: Warum Malax? Warum Jateran (Beta-Quadrant, Föderationsrand, weit von tholianischem Raum)?
+
+---
+
+### Szene 2 — Babyparty & Reise (Charakterspiel)
+**Zeit:** Transit (M3), vor letzter Annäherung. **Dauer:** ca. 20 min (+ kurzer Epilog).  
+**Ort:** von Spieler:innen gewählt/gestaltet (Lounge, Holodeck, Messe etc.). **Anwesend:** alle SC, Gi’ral, Knox (SL), **Janice Randall** (Adjutantin, Logistik/Toasts), ggf. weitere NSCs.  
+**Ziel:** Bonding, Ton setzen, Teaser klingonische Wehen, Hooks pflanzen.  
+**Übergang:** (a) Epilog Gi’ral/Maren (Abend danach) → (b) Zeitsprung/Annäherung, erste Sensorunruhe → Szene 3.
+
+#### 2a) Ritual „Segen des kommenden Kriegers“ (T’Muk ↔ Knox, 2–4 min, bestätigt)
+**Setup:** ruhiger Moment in der Babyparty. T’Muk bittet Knox hinzu; kontrolliert, respektvoll.
+
+**Vorformulierte Leitzeilen (anpassbar):**
+- **T’Muk (Ruf, direkt):** „Knox. Ein Krieger wächst nicht allein aus Blut, sondern aus denen, die bereit sind, an seiner Seite zu stehen. Dieses Kind wird Stärke brauchen — und Menschen, die ihr standhalten.“
+- **Knox (Antwort, sachlich-respektvoll):** „Dann will ich… ein verlässlicher Teil davon sein. Soweit es meine Pflicht und mein Wort tragen.“
+- **Gemeinsamer Stand:** Unterarmgriff oder gemeinsames Halten eines symbolischen Gefäßes/Objekts (nicht verletzend). T’Muk: „Halt dagegen. Nicht um zu siegen — um zu zeigen, dass du bleibst.“
+- **Gelöbnis T’Muk:** „Ich schwöre: Was aus meinem Haus kommt, wird Ehre kennen. Und wer ihm Schutz schuldet, wird ihn erhalten.“
+- **Gelöbnis Knox:** „Ich gebe mein Wort: Dieses Schiff ist ein Ort, an dem es wachsen kann — unter unserem Schutz.“
+
+*SL-Ton:* warm, etwas fremd, ernst; Raum für Spielerreaktionen.
+
+#### 2b) Babyparty-Details (Rahmen)
+- **Janice Randall** (NSC) kann Begrüßung, Getränkelogistik, kleine Anekdoten übernehmen (lebendig, nicht Spotlight-stehlend).
+- **Teaser:** Gi’ral/T’Laar-Kontext andeutet, wie **intensiv** klingonische Wehen sein können (schmerzhaft und zugleich lustvoll/überwältigend) — mit Spieler:innen abstimmen, sensibel halten.
+
+#### 2c) Epilog: Gi’ral & Lt. Maren (Abend danach)
+**Ort:** Arboretum (Becken ist zugleich Cetacean-Quartier; Spieler:innen muss das nicht sofort klar sein).  
+**Text-/Regiehinweis:**
+- Gi’ral wirkt unruhig, spricht von Hitze/Drang/Schwere der Schwangerschaft, zieht sich spontan aus und gleitet ins Wasser: *„Klingonische Wehen… wenn sie kommen, sind sie ein Sturm. Schmerz, ja. Aber auch etwas, das durch dich hindurchsingt.“*
+- **Lt. Maren** taucht ruhig auf (formell, melodisch): *„Ich grüße Sie. Die Nutzung dieses Beckens in der Nacht war nicht angekündigt. Dennoch… seien Sie willkommen. Soll ich die Umgebungswerte für Sie anpassen?“*
+- Optional leiser Moment Ruhe/Beobachtung; kein Pflicht-Plot, aber Charakterfarbe.
+
+**Übergang Szene 3:** Zeitsprung zur Annäherung/Jateran-System; Ops meldet **C1 (Puls 1)**.
+
+---
 
 ### Szene 3 — Ankunft, Pulse & Hypothesen
-- **Ereignisse:** Puls 1 ggf. bereits erlebt; **Puls 2** (≈ 8 h vor Frist) lokalisiert verödete Seite. Kolonie meldet synchrone, häufiger werdende Erdbeben; Minen ruhen.
-- **Crew-Aufgabe:** Hypothesen bilden (geologisch/technisch/biologisch-reifend), Scanplan, Prioritäten. **Primär:** T’Muk/Alpha-Crew; **Lt. Maren** Backup-Hinweis nur bei Bedarf.
-- **Zusatzinfo:** Dilithium-Spuren/Vorkommen, verödete Seite, Kristallformationen als mögliche Spur.
+**Zeit:** letzte Woche vor 78600.84, inkl. **C1** und **C2/T-8h**. **Dauer:** 30–45 min.  
+**Ort:** Brücke, Wissenschaft/Engineering, ggf. Comms mit Kolonie.  
+**Ziel:** Faktenlage klären, Hypothesen, Risiko Kolonie, Vorbereitung Parallel-Tasks/Ködersignal.
 
-### Szene 4 — Entdeckung & Eintreffen T’Laru (≈ 2 h vor Frist)
-- **Erstkontakt/Ton:** T’Laru trifft vor Geburt ein (Schutzanspruch). Vozrax’ Haltung: Vertrauen in Malax, Schutz der gottgleichen Entität, Misstrauen/Föderations-Trauma (Enterprise-D) — **genaues Timing/Haltung nach Grill finalisieren**.
-- **Risiko:** Mögliche Aggression gegen Föderation bei wahrgenommener Bedrohung der Entität.
+**Countdown/Events:**
+- **C1:** erster Subraumstoß (siehe Tabelle). **James Hawkins** (Flight): Fluglage stabil, Ursprung unklar. **Janice Randall**: Kolonieanfragen laufen ein.
+- **C1b:** Kolonie meldet synchrone, häufiger werdende Beben; Minen ruhen (keine Schadensfolgen spielrelevant).
+- **C2/T-8h (78600.51):** Puls 2 lokalisiert verödete Seite; **James Hawkins** oder **Zhara ch’Thari**: „Ursprung eingrenzbar — verödete Hemisphäre.“
 
-### Szene 5 — Parallel: Nursery-Suche & „Kaiserschnitt“ + Eskalation
-- **Parallel-Extended-Tasks** (Crew kann nicht beide Schwerpunkte zugleich voll bearbeiten):
-  1. **„Eine Wiege finden“ (Lokalisation Nursery, Class L, pflanzenreich, kein intelligentes Leben):** Progress Track **12**, Difficulty **3**, Resistance **2**. Breakthroughs **6** (Eingrenzung/Resonanzantwort, Diff/Res -1) und **9** (stabiler Kurs; Herkunft bleibt mysteriös). Ansätze: Reason/Insight+Science, Control/Daring+Conn, ship-assisted Scans.
-  2. **„Kaiserschnitt“ (sicherer Austritt ohne Planetenzerstörung):** Progress Track **14**, Difficulty **4**, Resistance **2**. Breakthroughs **7** (lokale Stabilisierung, Res -1 o. ä.) und **11** (kontrollierbares Fenster). Ansätze: Control/Daring+Engineering, Reason+Science/Engineering, ship-assisted (Struktur/Schilde/Deflektoren je nach Narration). **Zeitdruck:** Countdown zu **78600.84**.
-- **Notwendige Ergänzung (Spielerlösung):** **Ködersignal** entwickeln/ausbringen, da Entität kohlenstoffbasierte Oberflächenverbindungen konsumieren und Kolonie gefährden könnte (Task/Challenge nach Ansatz der Spieler einbetten).
-- **Eskalation:** sozial/drohend/kurz taktisch möglich — moderat halten (3,5–4 h).
-
-### Szene 6 — Rettung & Ankunft Nursery
-- **Erfolg:** Sicherer Austritt, Entität folgt Köder/Korridor, Ankunft an **Class-L-Nursery** (flora-dominant, kein intelligentes Leben). Tholianischer Schutz-/Nursing-Bezug andeutbar, nicht auflösen.
-- **Sinnes-/Sensor-Merkmal (Vorschlag, zu bestätigen):** harmonische Resonanzantwort/vegetative Signatur, die auf Entitäts-Pulse „einklingt“.
-- **Ausgang:** Frieden wahren wo möglich; Konsequenzen je nach Spielerwahl.
-
-## 6) Indirekte Hinweise (B2) — Zuordnungsvorschlag zu Crew/NSCs
-*1–2 Sätze pro Szene, verteilt; nie „Geburt/Wehen/Entität“ direkt benennen.*
-
-| # | Formulierung (Kern) | Vorgeschlagene Sprecher:in (Rolle/Kontext) |
+**Indirekte Hinweise (NSC, 1–2 pro Beat, nicht Spieler):**
+| Beat | Vorgeschlagene Zeile | Sprecher (NSC) |
 |---|---|---|
-| 1 | „Die Intervalle verkürzen sich… weniger Zeit, in den Ruhezustand zurückzukehren.“ | **Yorin Jaela** (Operations/Science, Sensorik-Fokus) oder **James Hawkins** (Flight/Conn, Taktgefühl) |
-| 2 | „Die Kruste dort arbeitet gegen sich selbst — Spannung in Schichten, nicht gleichmäßig.“ | **T’Muk** (Chief Engineer) oder **Dr. Ethan Carter** (Science, wenn eingesetzt) |
-| 3 | „… pulsiert nicht wie ein Bruch. Eher periodisch Druck auf eine Grenze.“ | **Marlin Vionn** (Trill Science, falls anwesend) oder **Zhara ch’Thari** (Operations/Support) |
-| 4 | „… Welle durch den Boden; viele halten unwillkürlich den Atem an, bis sie abebbt.“ | **Dr. T’Laar** (CMO, Beobachtung) oder **Dr. Zenn Iral** (Counselor, wenn genutzt) |
-| 5 | „Es kommt in Schüben… dazwischen hofft man, es sei vorbei — dann schneller wieder.“ | **Kolonist:in / Bergbaukontakt** (Jateran-NSC, neu) |
-| 6 | „Stollen geräumt… nicht wegen Einsturz heute, sondern weil man bei dem Rhythmus nicht verlässlich arbeiten kann.“ | **Bergbauleitung Jateran** (NSC, neu) |
-| 7 | „Lineare Spannungszonen, fast ausgerichtet… als folgte die Kruste einem vorgegebenen Muster.“ | **Science-NSC** (z. B. **Dr. Ethan Carter** / Scan-Team) oder **Jaela** |
-| 8 | „Dilithium-Spuren verdichten sich… als würde der Prozess Material freisetzen — oder umwandeln.“ | **T’Muk** + **Jaela** im Dialog oder **Science-Analyse** |
-| 9 | „Die Resonanz antwortet in wiederkehrenden Intervallen. Ich würde es nicht als zufällig bezeichnen.“ *(Backup, formell-melodisch)* | **Lt. Maren** (nur falls T’Muk/Alpha-Crew es nicht erkennen) |
-| — | **Einwand Risiko:** „Wenn es sich von kohlenstoffbasierten Verbindungen an der Oberfläche ernährt, könnte die Kolonie zum Ziel werden.“ | **Dr. T’Laar** (Medizin/Lebenszeichen-Implikation), **Jaela** (Scan/Ökologie), oder **Zenn Iral** (Risiko für Personen) — *klar aussprechen lassen* |
+| nach C1 | „Die Intervalle verkürzen sich. Es ist, als fände das System weniger Zeit, in den Ruhezustand zurückzukehren.“ | **James Hawkins** *(alternativ Janice als Relay)* |
+| Scan verödete Seite | „Lineare Spannungszonen, fast ausgerichtet… als folgte die Kruste einem vorgegebenen Muster.“ | **Dr. Ethan Carter** oder **Zhara ch’Thari** |
+| Materialanalyse | „Die Dilithium-Spuren verdichten sich entlang der aktiven Zonen. Als würde der Prozess Material freisetzen — oder umwandeln.“ | **Dr. Ethan Carter** (an Jaela/T’Muk gerichtet, NSC spricht) |
+| Kolonie-Call | „Es kommt in Schüben. Dazwischen hofft man, es sei vorbei — und dann setzt es wieder ein, schneller.“ | **Jateran-Kolonist:in** (Comms, neu) |
+| Kolonie-Call | „Wir haben die Stollen geräumt. Nicht wegen Einsturz heute — eher, weil man bei diesem Rhythmus nicht verlässlich arbeiten kann.“ | **Bergbauleitung Jateran** (neu) |
+| **Pflicht-Einwand** | „Wenn sich das, was dort reift, von kohlenstoffbasierten Verbindungen an der Oberfläche ernährt, könnte die Kolonie zum Ziel werden.“ | **Dr. Zenn Iral** *(Empfehlung; alternativ Carter)* |
 
-## 7) Offene Punkte / Nächste Ausarbeitung
-- **Knox-Log Wortlaut** (20–30 s) finalisieren.
-- **Vozrax/T’Laru Szene 4–6:** genauer Erstkontakt, Kooperations-/Eskalationsbedingungen, Darstellung in Szene 6.
-- **T’Muk-Hooks** (*Die Wiege aus dem Nichts, Der Schmied des ersten Atems, Der Eid des Assemblers*): Kern/Trigger und Platzierung Szenen 4–6.
-- **Nursery:** finales Sensor-/Sinnesmerkmal bestätigen; was genau angedeutet wird.
-- **Ködersignal-Mechanik:** als Task/Challenge (wer, womit, Schwierigkeit) ausspielen.
-- **Jateran-NSCs** (Kolonist:in, Bergbauleitung, ggf. weitere) mit kurzen deutschen Spielwerten/Traits.
-- **STA 2e Werte:** konkrete Attribute/Departments/Focus-Beispiele, Complications, Momentum/Threat-Optionen pro Schlüssel-Task (nach Spieleransätzen).
-- **Wissenschaftliche Methode:** Einbau gemäß erweitertem Regelwerk (vom Nutzer nachzureichen).
-- **Spielerwünsche** (`player-wishes.md`) gezielt in Szenen 4–6/Spätphase verteilen.
+**Lt. Maren (Backup nur bei Bedarf, formell-melodisch):** „Die Resonanz antwortet in wiederkehrenden Intervallen. Ich würde es nicht als zufällig bezeichnen.“
 
-## 8) Schnellreferenz: feste Entscheidungen (2026-11-17)
-- **Lt. Maren:** Delphin, Cetacean Ops Navigation/Science-Support, formell/melodisch, Backup bei Pulsdeutung; Gi’ral-Schwimm-Moment (Abend nach Babyparty, Arboretum/Cetacean-Becken).
-- **Nursery:** flora-dominanter Planet ohne (möglichst) intelligentes Leben; Arbeitsklasse **Class L** (unbewohnt, pflanzenreich); mysteriös.
-- **Pulse/Frist:** Puls 1 Systemeintritt, Puls 2 **8 h vor 78600.84** (2 h vor T’Laru), T’Laru vor Geburt.
-- **Risiko:** Entität kann Kolonie wegen kohlenstoffbasierter Oberflächenverbindungen bedrohen → Ködersignal + Nursery nötig.
-- **Parallel Tasks:** B3 akzeptiert (12/D3/R2 und 14/D4/R2).
+**Hypothesenraum (offen):** geologische Instabilität, technische/artefaktische Quelle, biologisch-reifender Prozess — Wahrheit schrittweise enthüllen.
+
+**Übergang Szene 4:** T-4h/T-2h Marker, Sensorwarnung → T’Laru erscheint.
+
+---
+
+### Szene 4 — Entdeckung & T’Laru (Kontakt auf Abstand)
+**Zeit:** um **C3/T-2h (78600.76)** bis kurz vor T-0. **Dauer:** 20–35 min.  
+**Ort:** Brücke, taktische Anzeige, ggf. Audio/visueller Comms-Kontakt.  
+**Ziel:** Tholianische Präsenz, Druck, Informationsfragmente, Weichen für Kooperation/Eskalation.
+
+**Haltung T’Laru/Vozrax (gesetzt):** **Drohend, aber auf Abstand.** T’Laru kommt vor Geburt, um Entität schützen zu können, falls Föderation aggressiv handelt. Keine Bereitschaft zu offenen Verhandlungen; knappe Signale/Botschaften möglich.
+
+**GM-Geheimwissen (nicht offenbaren, nur steuern):**
+- Vozrax will **T’Muk** Gelegenheit geben, sich zu **beweisen** (Ehre/Kompetenz als Ingenieur/Schmied im Angesicht der „Geburt“).
+- Vozrax weiß um **Malax’ zukünftige Rolle im temporalen Kalten Krieg** (nur Hintergrundmotivation für Vertrauen/Fokus auf Malax; **kein Reveal** an Crew).
+
+**Kontakt-Beat (Beispiel, SL anpassen):**
+- **Hawkins/Randall (NSC):** „Kontakt. Tholianisches Schiff, Distanz wird gehalten. Waffenstatus unklar — sie zeigen Präsenz, keine Annäherung.“
+- **Vozrax (Comms, knapp, übersetzt/distanziert):** „Hamilton. Ihr kommt zur Schwelle. Malax — ihr werdet beobachtet. Beweist, dass eure Föderation mehr ist als Zerstörung.“ *(drohend, aber kein sofortiger Angriff)*
+- Bei Technik-/Lösungsansprache Richtung T’Muk (wenn Spieler es anbieten): Vozrax kann einen prüfenden, knappen Hinweis geben, der **T’Muk** herausfordert (Respekt durch Prüfung), ohne Hilfe zu erklären. *Beispielton:* „Assembler hört, wenn Metall und Wille sprechen. Zeig, ob du die Geburt führen kannst, ohne zu zerbrechen.“
+
+**Übergang Szene 5:** Frist rückt näher (T-60m/T-0); Teams teilen sich auf Parallel-Tasks.
+
+---
+
+### Szene 5 — Parallel: Nursery-Suche, „Kaiserschnitt“, Ködersignal, Eskalation
+**Zeit:** T-2h bis T-0. **Dauer:** 45–60 min (Kern).  
+**Ziel:** zwei parallele Extended Tasks vorantreiben, Kolonie-Risiko adressieren, Kontakt managen.
+
+**Countdown:** nutze T-60m/weitere Updates; **T-0 = 78600.84** kritisches Fenster.
+
+#### Parallel-Extended-Tasks (B3, akzeptiert)
+| Task | Track | Difficulty | Resistance | Breakthroughs | Fokus |
+|---|---:|---:|---:|---|---|
+| **1. „Eine Wiege finden“** (Nursery lokalisieren, Class L) | 12 | 3 | 2 | 6 (Eingrenzung/Resonanz, Diff/Res -1), 9 (stabiler Kurs; Herkunft mysteriös) | Reason/Insight+Science, Control/Daring+Conn, ship-assisted |
+| **2. „Kaiserschnitt“** (Austritt ermöglichen, ohne Planetenzerstörung) | 14 | 4 | 2 | 7 (lokale Stabilisierung, Res -1 o. ä.), 11 (kontrollierbares Fenster) | Control/Daring+Engineering, Reason+Science/Eng, ship-assisted |
+
+**Parallelität (Tischregel):** pro Beat/Intervall ein Hauptschwerpunkt-Team; anderes Team sichert, assistiert, übernimmt Comms/T’Laru oder **Ködersignal**.
+
+#### Ködersignal / Kolonieschutz (spielergetriebene Challenge/Task)
+- **Auslöser:** Einwand „kohlenstoffbasierte Oberflächenverbindungen als Nahrung → Kolonie gefährdet“ (Szene 3).
+- **Ziel:** Entität vom besiedelten Bereich weglocken/führen (Signal, Resonanzköder, Energie-/Stoffspur) — Ansatz und Glaubwürdigkeit durch Spieler.
+- **SL-Vorschlag (parametrisierbar):** 1–2 Tasks oder kurzer Challenge-Block parallel zu Tasks 1/2 (z. B. Difficulty 2–3, Teamarbeit Engineering/Science/Conn), Erfolg verbessert Lage/erzählerischen Spielraum.
+
+#### NPC-Hinweise Szene 5 (verteilt, NSC)
+- **T’Muk-nahe Technik:** **Zhara ch’Thari** / **Dr. Ethan Carter** liefern Messwerte, nicht Lösungen.
+- **Marlin Vionn** (falls genutzt): „… pulsiert nicht wie ein Bruch. Eher periodisch Druck auf eine Grenze.“
+- **Janice Randall:** Timing/Protokoll/Übergaben („Noch zwei Stunden bis zum projizierten Fenster — T’Laru hält Position.“)
+- **Lt. Maren (Backup):** nur wenn Puls/Resonanz von T’Muk/Alpha-Crew nicht erkannt wird.
+
+#### Eskalation (moderat)
+- T’Laru bleibt auf Abstand, kann drohen (Sensorauflockung, Warnsignal, kurze Waffenaufschaltung als Geste) bei wahrgenommener Aggression gegen Entität.
+- Kooperation möglich, wenn Hamilton Schutz/Austritt glaubhaft sicherstellt; Vozrax prüft **T’Muk**.
+
+**Übergang Szene 6:** Task 2 erreicht Fenster/Erfolg, Köder wirkt, Kurs aus Task 1 steht → Austritt/Transit.
+
+---
+
+### Szene 6 — Rettung, Nursery, Nachhall
+**Zeit:** T-0 und folgend. **Dauer:** 20–30 min.  
+**Ziel:** sicherer Austritt, Ankunft/Übergabe an Nursery, tholianischer Bezug ohne Auflösung.
+
+**Empfohlenes Sensor-/Sinnesmerkmal (fest vorschlagen, bis final bestätigt):**
+- Beim Anflug auf Nursery: **harmonische Resonanzantwort** der flora-dominanten Class-L-Welt auf Entitäts-/Puls-Signatur (ein „Einklingen“ in Vegetations-/Biosignatur-Bändern), ruhig, fremd, lebensvoll — ohne Erklärung der Herkunft.
+
+**Unklar lassen:** warum diese Welt passt, Herkunft der Entitäten/Nursery, Umfang tholianischer Riten/Theologie, Zahl früherer Entitäten.
+
+**Vozrax/T’Laru Abschluss (Beispielton):** kurzer Abstandskontakt/Anerkennung bei gelungenem Schutz; kein Bündnis, kein vollständiges Vertrauen. Anerkennung kann T’Muks Leistung implizit würdigen (*„Der Schmied hat den Weg gehalten.“* — nur wenn passend).
+
+**Übergang/Ende:** Logbucheintrag/kurzer Epilog, offene Fragen (Malax/Vozrax) bleiben Mysterium.
+
+---
+
+## 3) T’Muk-Hooks (rekonstruiert aus Titeln/Themen — zur Bestätigung/Platzierung)
+
+> **Hinweis:** Die drei Hook-Titel wurden in der früheren Ideation genannt, die Detailformulierungen sind in den Projektdateien nicht gespeichert. Unten stehende Beschreibungen sind **arbeitsfähige Rekonstruktionen** entlang Titel, Missionskern und `player-wishes.md` (Ingenieurskunst/„Schmiede“, Ehre, Vaterrolle, Innovation, Klingonen- vs. Sternenflottenkodex). Bitte bestätigen/ändern.
+
+| Hook | Kernidee (Wirkung für T’Muk) | Trigger / Spielwirkung | Vorschlag Szene |
+|---|---|---|---|
+| **1) „Die Wiege aus dem Nichts“** | T’Muk erkennt/gestaltet die Bedingungen, unter denen Leben sicher „ankommen“ kann (Nursery/Korridor als Wiege). Verbindet Ingenieursdenken mit Fürsorge/Vaterrolle (neues Leben schützen statt nur Maschinen zu beherrschen). | Moment in Task 1 oder Ködersignal: ein scheinbar lebloser Datensatz/Raumabschnitt erweist sich als passender Zufluchtsort — T’Muk gibt dem „Nichts“ Sinn/Form. | **Szene 5** (Nursery-Suche/Breakthrough) oder Übergang 5→6 |
+| **2) „Der Schmied des ersten Atems“** | T’Muk als **Schmied** des Austrittsfensters: präzise, kraftvolle, improvisierte Lösung (Kaiserschnitt/Resonanz/Struktur) unter Zeitdruck. Ehrt klingonische Handwerks-Ehre durch Rettung statt Zerstörung. | Kritischer Ingenieursmoment in Task 2 (Breakthrough/letzter Versuch) oder Stabilisierung des Köderpfads; Chance, sich vor Vozrax’ prüfendem Blick zu beweisen. | **Szene 5** (Kaiserschnitt/Finale des Tasks) |
+| **3) „Der Eid des Assemblers“** | Echo auf Vozrax („Assembler“): ein stilles/ausgesprochenes Gelöbnis oder Anerkennung — T’Muk beweist, dass Stärke Schutz und Verantwortung tragen kann (Brücke zwischen klingonischem Kodex, Sternenflotte, kommender Vaterrolle). | Kontaktmoment Szene 4 oder Abschluss Szene 6: Vozrax’ Prüfung/Anerkennung zielt auf T’Muk; Malax bleibt Fokus der Forderung, T’Muk wird als würdiger Handelnder gesehen. | **Szene 4** (Prüfung) und/oder **Szene 6** (Nachhall) |
+
+**Offen:** exakte Formulierungen, 1–2 Hooks verbindlich auswählen, Beteiligte (T’Muk solo / mit Engineering / mit Alpha-Crew / mit Vozrax).
+
+---
+
+## 4) Inhalte-Abdeckung (Checkliste gegen Anforderungen)
+
+| Angeforderter Inhalt | Status | Ort/Anmerkung |
+|---|---|---|
+| 3,5–4 h, moderates Würfeln, kein Politik-Plot | bereit | Deckblatt, Szenenzeiten |
+| Deutsch außer Game Terms; Namen/Focuses-Regel | bereit | Deckblatt |
+| Knox-Log Einstieg (inkl. Voxrax-Zitat, T’Laar-Matrix, Blackwater, Schwester, Crew vertrauter) | **Text fertig** | Szene 1 |
+| Babyparty (Umgebung Spieler, alle SC + NSCs, ~20 min) | Rahmen + Texte | Szene 2 |
+| Klingonisches Ritual T’Muk ↔ Knox (Bonding) | **Text/Leitzeilen fertig** (bestätigt) | Szene 2a |
+| Gi’ral schwimmt Abend danach, Maren-Begegnung | **Text/Beat fertig** | Szene 2c |
+| Puls 1 Systemeintritt, Puls 2 T-8h, T’Laru T-2h, Frist 78600.84 | bereit | Timeline + Countdown |
+| Erdbeben synchron/häufiger, Minen ruhen, keine spielrelevanten Folgen | bereit | Prämissen, Szene 3 |
+| Indirekte geburtsassoziative Hinweise, verteilt, NSC-Sprecher (nicht Spieler) | bereit (zugeordnet) | Szene 3/5 Tabellen |
+| Kolonie-Risiko: kohlenstoffbasierte Nahrung → Ködersignal nötig | bereit | Prämissen, Szene 3/5 |
+| Zwei parallele Extended Tasks (Parameter) | bereit (B3) | Szene 5 |
+| Nursery: Class L, flora-dominant, kein intelligentes Leben, mysteriös | bereit (akzeptiert) | Deckblatt, Szene 6 |
+| T’Laru drohend auf Abstand; T’Laru vor Geburt; Vozrax will T’Muk prüfen; Malax temporal-cold-war-Wissen (GM) | bereit | Szene 4 + Geheimwissen |
+| Cetacean Ops **Lt. Maren** inkl. Backup-Rolle | bereit | Deckblatt, Szenen 2/3/5 |
+| Bestehende NSCs identifiziert (Randall, Hawkins u. a.) | bereit | NSC-Tabelle |
+| Jateran-NPCs, Jateran-System-Details, Blackwater-Briefing-Kontext, soziale Dynamik | **teilbereit** | Comms-Platzhalter/Jateran-NSCs neu; System/Briefing ausbauen |
+| STA 2e Tasks/Traits/Stats, Scientific Method (Erweiterung) | **offen** | nach Regel-Input integrieren |
+| T’Muk-Hooks final (Texte/Platzierung) | **rekonstruiert, offen** | Abschnitt 3 |
+| Knox-Log final abgenommen | **Entwurf fertig** | Szene 1 |
+
+---
+
+## 5) Offene Punkte für nächstes Grilling
+1. Countdown-Feintaktung: feste Marker pro Szene 3–5 (nur C1/C2/C3/T-0 oder zusätzliche T-4h/T-60m)?
+2. Voxrax-Formulierungen Szene 4 (genauer Wortlaut) und Eskalationsschwelle Szene 5.
+3. T’Muk-Hooks: Bestätigung der Rekonstruktion, Auswahl/Platzierung 1–2 verbindlich, konkrete Triggertexte.
+4. Nursery-Sensorbild final bestätigen (harmonische Resonanz/vegetative Signatur) — was exakt wahrnehmbar?
+5. Jateran-Systembeschreibung, Jateran-NSC-Namen/-Traits, Blackwater-Briefing (Kurztext), soziale Dynamik-Beats.
+6. Ködersignal als konkreter Task/Challenge (Attribute/Departments, Difficulty) nach Spielerpräferenz/Scientific Method.
+7. STA-2e-Werteblöcke (Traits, Complications, Momentum/Threat-Vorschläge) für Schlüsselszenen.
+
+*Was ausgelassen/geändert:* T’Muk-Hooks mangels gespeicherter Originalformulierungen rekonstruiert (transparent markiert). „Bassengraben nahe der romulanischen Grenze“ aus deiner Vorgabe übernommen (Bezeichnung ggf. später an Kanon/Hamilton-Material angleichen). Scientific-Method-Regeln stehen noch aus.  
+*Risiko:* Ohne finale Hook-Texte, Voxrax-Wortlaut und Countdown-Feintaktung können Szenen 4–5 im Spieltempo uneinheitlich wirken.

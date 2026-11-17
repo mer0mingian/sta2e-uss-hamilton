@@ -57,3 +57,4 @@ Quelle: [`../../clear-skies-source/Crew & NPC Overview - NPC Data.csv`](../../cl
 ## Hinweise zur Nutzung
 - Vorhandene CSV-Statblocks anderer Szenarien nicht blind übernehmen; auf Szenario, Ton und 3,5–4h-Rahmen anpassen.
 - Bei Wiederverwendung Hamilton-naher NSCs: Kontinuität zu Logs wahren (Wunden, Vertrauen, offene Fäden), aber Spotlight auf die Tisch-PCs legen.
+- **Hinweis-Sprecher (nicht Spieler):** Für indirekte Pulse-/Risiko-Hinweise eignen sich u. a. **Janice Randall** (Yeoman/Adjutant, Crew-CSV), **James Hawkins** (Flight Controller, Crew-CSV), **Dr. Zenn Iral**, **Zhara ch’Thari**, **Dr. Ethan Carter**, **Marlin Vionn** sowie Jateran-NSCs (Kolonist:in, Bergbauleitung) und **Lt. Maren** (Backup).
