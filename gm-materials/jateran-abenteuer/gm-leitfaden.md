@@ -249,8 +249,8 @@
 | T’Laru drohend auf Abstand; T’Laru vor Geburt; Vozrax will T’Muk prüfen; Malax temporal-cold-war-Wissen (GM) | bereit | Szene 4 + Geheimwissen |
 | Cetacean Ops **Lt. Maren** inkl. Backup-Rolle | bereit | Deckblatt, Szenen 2/3/5 |
 | Bestehende NSCs identifiziert (Randall, Hawkins u. a.) | bereit | NSC-Tabelle |
-| Jateran-NPCs, Jateran-System-Details, Blackwater-Briefing-Kontext, soziale Dynamik | **teilbereit** | Comms-Platzhalter/Jateran-NSCs neu; System/Briefing ausbauen |
-| STA 2e Tasks/Traits/Stats, Scientific Method (Erweiterung) | **offen** | nach Regel-Input integrieren |
+| Jateran-NPCs, Jateran-System-Details, Blackwater-Briefing-Kontext, soziale Dynamik | **in Arbeit** | Draft `setting-nscs-und-dynamik.md` (Subagent läuft/Datei in Erstellung), danach prüfen/integrieren |
+| STA 2e Tasks/Traits/Stats, Scientific Method (Erweiterung) | **teilbereit** | Regel-Entwurf `regel-bausteine.md` vorhanden (ohne Scientific Method); Integration/Feinschliff offen |
 | T’Muk-Plotline | **festgelegt** (nur „Die Wiege aus dem Nichts“, keine direkten Trigger) | Abschnitt 3 |
 | Knox-Log final abgenommen | **Entwurf fertig** | Szene 1 |
 
@@ -261,7 +261,7 @@
 2. **T’Muk-Plotline:** nur **„Die Wiege aus dem Nichts“**, keine direkten Trigger (spielergetrieben).
 3. **Vozrax-Formulierungen Szene 4** (genauer Wortlaut) und **Eskalationsschwelle Szene 5** weiter schärfen.
 4. **Nursery-Sensorbild** final bestätigen (harmonische Resonanz/vegetative Signatur) — was exakt wahrnehmbar?
-5. **Regelbasierte Bausteine (in Arbeit, Subagents):** STA-2e Tasks/Traits/Komplikationen/Momentum-Threat-Vorschläge, NSC-Werte/Traits, Ködersignal als Task/Challenge, Jateran-System/Blackwater-Briefing/soziale Dynamik — auf Basis vorhandener Regeltexte (`regel-bausteine.md`, `setting-nscs-und-dynamik.md`, danach Integration).
+5. **Regelbasierte Bausteine:** `regel-bausteine.md` liegt als Entwurf vor (Subagent 1 abgeschlossen). `setting-nscs-und-dynamik.md` wird weiterhin im Hintergrund erstellt (Subagent 2); Prüfung/Integration nach Abschluss.
 6. **Scientific Method (Erweiterungsband):** Integration nach deiner Lieferung.
 
 *Was ausgelassen/geändert:* „Bassengraben nahe der romulanischen Grenze“ aus Vorgabe übernommen (Bezeichnung ggf. angleichen). Scientific-Method-Regeln stehen noch aus.  
