@@ -90,12 +90,12 @@
 
 ### 3.1 „Eine Wiege finden“ (Nursery lokalisieren)
 
-**Ziel:** unbewohnte, flora-dominante Class-L-Welt als passende „Wiege“ finden und stabilen Anflugkorridor ableiten.
+**Ziel:** unbewohnte, flora-dominante Class-L-Welt **ohne tierisches Leben** als passende „Wiege“ finden und stabilen Anflugkorridor ableiten.
 
 **Beispielansätze pro Versuch (abwechselnd kombinierbar):**
 1. **Grobraum-Scan & Resonanzvergleich:** **Reason + Science** (Focus *Astrophysics*, *Sensor Analysis*) — filtert Kandidatenwelten gegen Puls-/Resonanzsignatur.
 2. **Kurs- und Fensterberechnung:** **Control + Conn** (Focus *Stellar Cartography*, *Helm Operations*, *Annahme*) — übersetzt Treffer in erreichbaren Kurs im Zeitfenster.
-3. **Biosignatur-/Ausschlussprüfung:** **Reason + Science** oder **Insight + Medicine** (Focus *Xenobiology*, *Exobiology*) — prüft „kein intelligentes Leben / möglichst unbewohnt“.
+3. **Biosignatur-/Ausschlussprüfung:** **Reason + Science** oder **Insight + Medicine** (Focus *Xenobiology*, *Exobiology*) — prüft „kein tierisches Leben, unbewohnt“ (flora-dominant).
 4. **Schiffsassistierte Datenfusion:** Assistenz durch **Reason + Engineering** / **Control + Conn** bzw. Schiffssysteme (*Annahme: ship-assisted wie im Leitfaden*) — bündelt Sensorik, Navigation, Energieprofil.
 
 **Breakthrough-Vorschläge (bei 6 und 9):**
@@ -206,6 +206,8 @@
 
 ## 6) Kurze NSC-Stat-Hilfen für Jateran-Kontakte (Vorlagen)
 
+> **Hinweis (Abenteuer „Wehen unter Jateran“):** Kanonisch für dieses Abenteuer sind die benannten Jateran-NSCs in `setting-nscs-und-dynamik.md` §3 (Isha Renn, Darek Solin, Dr. Vey Tal — Minor NPCs, gemischte Föderationskolonie). Die folgenden Vorlagen sind **generische Alternativen/Startpunkte** und ersetzen diese NPCs nicht.
+>
 > Vorlagen nach Kernkategorien aus `sta2ecore_ch11.md` (Minor/Notable). Werte sind **Startpunkte** zur schnellen Anpassung; Feintuning nach Szene/Ton empfohlen.
 
 ### 6.1 Minor-NPC-Vorlage: Jateran-Kolonist:in (Comms/Bevölkerung)

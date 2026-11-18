@@ -14,7 +14,7 @@
 - **Hook:** Vozrax (Tholian, Captain der **T’Laru**, „Assembler“) sendet an Starfleet nur: **T’Laru, Captain Malax, Sternzeit, Ort Jateran**. **Admiral Blackwater** befiehlt der USS Hamilton den Einsatz.
 - **Einstieg:** Knox-Computerlog (Szene 1) → Babyparty/Reisecharakterspiel (Szene 2).
 - **Ziel:** Kristalline Entität sicher aus Jateran hervortreten lassen (**ohne Planetenzerstörung**), Bedrohung der Kolonie durch **Ködersignal**/Umleitung mindern, Entität zur **Nursery** bringen.
-- **Nursery:** **unbewohnte Class-L-Welt**, flora-dominant, **kein (bzw. möglichst kein) intelligentes Leben**, mysteriös (Herkunft/genaue Eignung/tholianische Überlieferung unklar). *Kanonhinweis:* Class L oft pflanzenreich, wenig/kein indigenes Tierleben; Darstellung variiert — hier bewusst unbewohnt.
+- **Nursery:** **unbewohnte Class-L-Welt**, flora-dominant, **kein tierisches Leben**, mysteriös (Herkunft/genaue Eignung/tholianische Überlieferung unklar). *Kanonhinweis:* Class L oft pflanzenreich, wenig/kein indigenes Tierleben; Darstellung variiert — hier bewusst ohne tierisches Leben und unbewohnt.
 - **Antagonisten (ambivalent):** Tholians **T’Laru / Vozrax** — Schutz/„Nursing“ möglich, Eskalation möglich. Tholianische Sicht: kristalline Entitäten gottgleich; Enterprise-D als „Mörderin“ einer Entität (Trauma). **Kontakt:** drohend, aber **auf Abstand**.
 
 ### Tisch-Setup
@@ -252,7 +252,7 @@
 | Indirekte geburtsassoziative Hinweise, verteilt, NSC-Sprecher (nicht Spieler) | bereit (zugeordnet) | Szene 3/5 Tabellen |
 | Kolonie-Risiko: kohlenstoffbasierte Nahrung → Ködersignal nötig | bereit | Prämissen, Szene 3/5 |
 | Zwei parallele Extended Tasks (Parameter) | bereit (B3) | Szene 5 |
-| Nursery: Class L, flora-dominant, kein intelligentes Leben, mysteriös | bereit (akzeptiert) | Deckblatt, Szene 6 |
+| Nursery: Class L, flora-dominant, kein tierisches Leben, unbewohnt, mysteriös | bereit (akzeptiert) | Deckblatt, Szene 6 |
 | T’Laru drohend auf Abstand; T’Laru vor Geburt; Vozrax will T’Muk prüfen; Malax temporal-cold-war-Wissen (GM) | bereit | Szene 4 + Geheimwissen |
 | Cetacean Ops **Lt. Maren** inkl. Backup-Rolle (**Major NPC**) | bereit | Deckblatt, Szenen 2/3/5, known-npcs |
 | Kommissarischer Sicherheitschef **Lt. Bravok, Sohn des Skarn** (Ersatz Mendox, **Major NPC**, Profilbasis Vrok zh'Daar) | bereit | Deckblatt, NSC-Tabelle, known-npcs |
