@@ -23,6 +23,18 @@
 | **Dr. Ethan Carter** | Human Support, Science Officer (CSV), aktiv in Iral-Log | CSV, `dr_iral.html` | bestehend |
 | **Ozyrrian 'Ozzy' th'Arilith** | Andorian CPO, Security (CSV), aktiv in Iral-Log | CSV, `dr_iral.html` | bestehend |
 | **Lt. Bravok, Sohn des Skarn** | Tellarit **[erfundener Name, Annahme]**, kommissarischer Sicherheitschef / Ersatz für **Mendox** (Lt.); Profil & Basiswerte übernommen von **Vrok zh'Daar** (Support, Security Officer, CSV: C10 F10 P8 D10 I8 R8; Com 3 Sec 4 Sci 1 Con 2 Eng 1 Med 2; *Sturdy*, Foci *Shipboard Tactical Systems, Environmental Tactics, Shield systems*). **STA 2e Major NPC (Vorschlag):** Personal Threat 6, **Value** *„Preparedness is key“* **[übernommen/adaptiert]**, **Focuses** *Shipboard Tactical Systems*, *Environmental Tactics*, *Shield Systems*, **Traits** *Tellarit*, *Kommissarischer Sicherheitschef (USS Hamilton)*, *Sturdy* **[Annahme]**, *Direkt, wachsam, verlässlich*. Kein Stress-Track (NPC). | CSV (Vrok zh'Daar), `dr_iral.html` | bestehend/adaptiert |
+
+### Lt. Bravok, Sohn des Skarn — Hintergrund (Lifepath, Vorschlag [Annahme])
+
+| Schritt | Wahl | Hintergrund |
+|---|---|---|
+| **Spezies** | Tellarit | Direkt, streitbar im Ton, verlässlich im Handeln; prüft Pläne durch Widerspruch und setzt um, wenn die Lage klar ist. |
+| **Umfeld** | Frontiersiedlung / Industriehafen (Tellar Prime oder Föderationsaußenposten) | Aufgewachsen zwischen Frachtverkehr, Sicherheitsprotokollen und technischen Notfällen; Ordnung und Wachsamkeit als Schutz von Leben. |
+| **Erziehung** | Streng-pragmatisch, gemeinschaftsorientiert | Belastbarkeit und ehrliche Rückmeldung erwartet; Respekt an Taten gemessen. |
+| **Sternenflottenakademie** | Track: Security/Operations (Tactical/Security) | Ausbildung in Schiffssicherheit, Schadensabwehr, Schild-/Waffensystemen und Einsatzführung in instabilen Umgebungen. |
+| **Karriere** | Sicherheitsdienst, Borddienst (USS Hamilton) | Erfahrung in Decksicherheit, Zugangskontrolle, Bereitschaftsteams und taktischer Brückenunterstützung; nüchterne Lageeinschätzung unter Druck. |
+| **Karriereereignis** | Übernahme kritischer Verantwortung in einer Krise | Schloss in einer Notlage eine Führungs-/Koordinationslücke bei Schutzmaßnahmen oder taktischen Systemen. |
+| **Aktuelle Position** | Kommissarischer Sicherheitschef (Lt.), Ersatz für Mendox | Hält Bereitschaft und Meldewege aufrecht; defensiv-pragmatisch, deeskalationsfähig, crew- und zivilpersonenschutzorientiert. |
 | **Marlin Vionn** | Trill Science Officer (CSV), Virus-/Laborunterstützung erwähnt | CSV, `yorin_jaela.html` | bestehend |
 | **Janice Randall** | Yeoman/Adjutant Captain (CSV, Scenario „Crew“) | CSV | bestehend (Hintergrund) |
 | **James Hawkins** | Flight Controller, Ensign (CSV, Scenario „Crew“) | CSV | bestehend (Hintergrund) |
