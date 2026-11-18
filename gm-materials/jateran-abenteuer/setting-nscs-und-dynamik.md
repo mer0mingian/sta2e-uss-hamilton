@@ -10,35 +10,34 @@
 
 ## 1. Jateran-Systembeschreibung (plausibel, Star-Trek-Stil)
 
-> **[Annahme]** Stern-/Orbitbezeichnungen und Flurnamen sind für Spielzwecke ergänzt; konsistent mit: Jateran = Lithium-Bergbaukolonie, Beta-Quadrant am Föderationsrand, bekannte Spezies mit früherem Föderationskontakt, geteilte Hemisphären, verödete Hemisphäre mit Kristallformationen/Spur früherer Entität, bewohnte abgewandte Seite, zunehmende Erdbeben korrelieren mit Subraumpulsen der Entität, Dilithium-Reifung/Resonanzzonen. **Kein planetarer Politik-Plot.**
+> **[Annahme]** Stern-/Orbitbezeichnungen, Weltparameter und Flurnamen sind für Spielzwecke ergänzt; konsistent mit: **Jateran II** = Lithium-Bergbaukolonie (Hauptschauplatz) im Jateran-System, Beta-Quadrant am Föderationsrand, **gemischte Föderationskolonie** (diverse Spezies, früherer Föderationskontakt), geteilte Hemisphären, verödete Hemisphäre mit Kristallformationen/Spur einer früheren Entität, bewohnte abgewandte Seite, zunehmende Erdbeben korrelieren mit Subraumpulsen der Entität, Dilithium-Reifung/Resonanzzonen. **Kein planetarer Politik-Plot.**
 
 ### Stern & Systemrahmen
-- **Primärstern:** **Jateran Prime** **[Annahme]**, stabiler Klasse-K/Typ-G-Grenzstern (orange-gelbliches Spektrum) mit moderater Strahlungsaktivität — unauffällig, aber mit gut messbaren Magnetosphärenwechselwirkungen der inneren Planeten.
+- **Primärstern:** **Jateran Prime** **[Annahme]**, stabiler Hauptreihenstern an der Grenze **G9V–K0V** (orange-gelbliches Spektrum) mit moderater Chromosphärenaktivität und geringer Neigung zu starken Flarestürmen. Die Leuchtkraft und der breite Habitabitätsbereich erlauben eine erdähnliche Koloniewelt auf einem inneren Umlauf; Magnetosphären- und Sonnenwindwechselwirkungen sind gut messbar, aber missionsüblich beherrschbar.
 - **Lage:** Föderationsrand, **Beta-Quadrant**, abseits dichter Kernrouten; für Starfleet als ehemaliger Kontaktpunkt bekannt, logistisch jedoch peripher.
-- **Systemcharakter:** rohstoffreiches, geologisch altes System mit Spuren früherer hochenergetischer Subraum-/Kristallprozesse in der Planetenkruste des dritten Planeten.
+- **Systemcharakter:** rohstoffreiches, **geologisch altes** System mit Spuren früherer hochenergetischer Subraum-/Kristallprozesse, deren Signatur sich in der Kruste von **Jateran II** konzentriert. Die äußeren Regionen sind dünn besetzt und liefern vor allem Navigations- und Sensorhintergrund.
 
 ### Orbits & Himmelskörper (Übersicht)
-| Orbit | Objekt | Klasse/Typ | Kurzbeschreibung (spielrelevant) |
+| Orbit/Zone | Objekt | Klasse/Typ | Kurzbeschreibung (spielrelevant) |
 |---:|---|---|---|
-| I | **Jateran I** **[Annahme]** | heiße Felswelt | metallreich, keine Besiedlung; starke Sonnenwinde, gelegentlich als Navigations-/Sensorreferenz nutzbar |
-| II | **Jateran II** **[Annahme]** | trockene Felswelt | dünne Atmosphäre, Spurenabbau in Vergangenheit möglich, derzeit unbewohnt |
-| III | **Jateran** | erdähnliche Koloniewelt (Lithium-Bergbau) | Hauptschauplatz; geteilte Hemisphären, Resonanz-/Kristallzonen, bewohnte abgewandte Seite |
-| IV | **Jateran IV** **[Annahme]** | Gasriese | breites Ringsystem, mehrere Eismonde; nützlich für Hintergrund-Sensorrauschen/Anflugvektoren |
-| V–VI | äußere Eis-/Felsbrocken **[Annahme]** | Kleinplaneten/Gürtelreste | dünn besiedelte automatisierte Relais in der Vergangenheit denkbar; aktuell ohne Missionsrelevanz |
+| II | **Jateran II** | erdähnliche Koloniewelt (**Klasse M**, **[Annahme]**; Lithium-Bergbau) | Hauptschauplatz; bewohnte Kolonie auf der abgewandten Seite, verödete „Narbenfeld“-Hemisphäre, Resonanz-/Kristallzonen, aktive Reifungssignale |
+| III | **Jateran III** **[Annahme]** | Gasriese (**Klasse J**, **[Annahme]**) | breites Ringsystem aus Eis- und Gesteinspartikeln sowie mehrere Eismonde; nützlich für Anflugvektoren und als Quelle von Hintergrund-Sensorrauschen |
+| äußere Zone | äußerer Trümmer-/Eisgürtel **[Annahme]** | Kleinplaneten- und Gürtelreste | dünn, unbewohnt; mögliche Spuren alter automatisierter Relais, aktuell ohne Missionsrelevanz |
 
-### Jateran (Planet, Orbit III)
-- **Rolle:** **Lithium-Bergbaukolonie** einer bekannten Spezies mit früherem Föderationskontakt. Die Förderung dient regionalen Industrie-/Energiebedarfsketten; Fokus des Abenteuers liegt auf Sicherheit, geophysischer Instabilität und Entitätsreifung, **nicht** auf politischem Konflikt.
+### Jateran II (Koloniewelt, Orbit II)
+- **Rolle:** **Lithium-Bergbaukolonie** als **gemischte Föderationskolonie** (Bewohner:innen verschiedener Föderationsspezies, früherer Föderationskontakt). Die Förderung dient regionalen Industrie-/Energiebedarfsketten; Fokus des Abenteuers liegt auf Sicherheit, geophysischer Instabilität und Entitätsreifung, **nicht** auf politischem Konflikt.
+- **Weltcharakter:** **Klasse-M**-Welt mit erdähnlicher Schwerkraft, atembarer Atmosphäre und stabilen Oberflächenbedingungen im bewohnten Bereich **[Annahme]**. Die Kruste ist metall- und lithiumreich; tektonisch alte Strukturen werden durch den aktuellen Reifungsprozess lokal neu unter Spannung gesetzt.
 - **Hemisphären-Teilung:**
-  - **Verödete Hemisphäre („Narbenfeld“) [Annahme-Bezeichnung]:** weite, lebensarme Regionen mit **Kristallformationen**, verglasten Bruchlinien und säulenartigen Strukturen. Gedeutet als Spur einer früheren kristallinen Entität bzw. eines ehemaligen „Geburtskanals“; Vegetation/Fauna dort seit langem unterdrückt.
+  - **Verödete Hemisphäre („Narbenfeld“) [Annahme-Bezeichnung]:** weite, lebensarme Regionen mit **Kristallformationen**, verglasten Bruchlinien und säulenartigen Strukturen. Gedeutet als Spur einer früheren kristallinen Entität bzw. eines ehemaligen „Geburtskanals“; die Oberfläche wirkt seit langem ausgezehrt und geochemisch gezeichnet.
   - **Bewohnte abgewandte Seite:** Siedlungs- und Betriebsinfrastruktur der Kolonie, Transportschächte, Wartungsfelder, Comms-Knoten. Lebensräume sind von der Narbenhemisphäre räumlich getrennt, aber seismisch nicht vollständig entkoppelt.
 - **Geologie & Betrieb:** Lithiumvorkommen in tiefen Krustenadern; alte und neue Stollen, teils automatisiert. **Minen ruhen** im aktuellen Krisenfenster (Sicherheitsmaßnahme wegen Bebenrhythmus), ohne dass daraus bereits Katastrophenschäden gespielt werden müssen.
 - **Seismik:** **Zunehmende Erdbeben** in Schüben, zeitlich **synchron** zu den Subraumpulsen („Wehen“). Abstände verkürzen sich; Ruhephasen werden knapper. Auswirkungen spielrelevant als Zeitdruck, Evakuierungsdenken und Arbeitsunterbrechung — nicht als großflächige Zerstörungssimulation.
 
 ### Hinweise auf Dilithium-Reifung & Resonanzzonen (Setting-Signale)
-- **Subraumpulse / Resonanz:** wiederkehrende, tiefbandige Stöße mit verkürzenden Intervallen; Ursprung in/unter der verödeten Hemisphäre lokalisierbar (C2/T-8h). Muster wirkt strukturiert, nicht zufällig.
+- **Subraumpulse / Resonanz:** wiederkehrende, tiefbandige Stöße mit verkürzenden Intervallen; Ursprung in/unter der verödeten Hemisphäre von **Jateran II** lokalisierbar (C2/T-8h). Muster wirkt strukturiert, nicht zufällig.
 - **Kristall-/Spannungszonen:** entlang linearer Bruch- und Kristalladern messbare Spannungsgradienten; **[Annahme]** wie „vorgezeichnete“ Schwächungslinien der Kruste, entlang derer Energie/Materialumlagerung möglich ist.
 - **Dilithium-Spuren:** erhöhte Dilithium-/Vorläufer-Signaturen in aktiven Resonanzzonen; **[Annahme]** als Hinweis interpretierbar, dass der Reifungsprozess Material freisetzt, verdichtet oder umwandelt (kein verbindlicher Laborbefund im Spieltext nötig).
-- **Oberflächenrisiko:** falls die entstehende Entität sich von kohlenstoffbasierten Verbindungen nährt/angezogen wird, könnten **bewohnte Bereiche** (Biospuren, Infrastruktur, Siedlungsnähe) ein Risiko darstellen — Grundlage für Ködersignal-/Umleitungsüberlegungen.
+- **Oberflächenrisiko:** falls die entstehende Entität sich von kohlenstoffbasierten Verbindungen nährt/angezogen wird, könnten **bewohnte Bereiche** auf **Jateran II** (Biospuren, Infrastruktur, Siedlungsnähe) ein Risiko darstellen — Grundlage für Ködersignal-/Umleitungsüberlegungen.
 - **SL-Leitplanke:** Diese Hinweise stützen Hypothesen (geologisch/technisch/biologisch-reifend). Die „Wahrheit“ bleibt schrittweise enthüllt; keine Auflösung des Mysteriums erzwingen.
 
 ---
@@ -66,11 +65,18 @@
 - Knox-Log ergänzt die persönliche/atmosphärische Ebene; dieser Auszug liefert den **missionsbezogenen Befehlskontext**.
 - **Nicht** erwähnen: genaue Entitätsnatur, Nursery-Details, Vozrax’ Motive (T’Muk-Prüfung, Malax/temporaler Kontext) — alles **GM-secret** oder offen.
 
+### Missionsdirektiven (STA 2e)
+
+Aus Blackwaters Einsatzrahmen abgeleitete **Mission Directives** (missionsweite Vorgaben; 1–3 pro Mission, bei passender Situation wie Values für Determination nutzbar):
+
+1. **Mission Directive:** *„Schutz der Bevölkerung auf Jateran (Jateran II).“*
+2. **Mission Directive:** *„Friedliche Kontaktaufnahme mit Tholianern.“*
+
 ---
 
 ## 3. Jateran-NSCs (2–3)
 
-> **STA 2e leichtgewichtig:** Fokus auf spielbare Traits/Values/Fokus-Ideen statt vollständiger Statblocks. Bei Bedarf als **Notable NPCs** mit kleinem Personal-Threat-Pool (typisch 3) oder als **Minor NPCs** führbar (`ch11`: Minor = keine Personal Threat/keine Values/Foci; Notable = 1 Value, 2–3 Foci, 3 Personal Threat, 1× Injury vermeiden/Szene). Vorschläge unten sind **[Annahme]** für Spielpraxis.
+> **STA 2e (Minor NPCs):** Alle drei NSCs sind **Minor NPCs** nach Kernregeln (`sta2ecore_ch11.md`): **Personal Threat 0**, **keine Values/Foci**, **kein Stress-Track**; ein Minor NPC wird bei jeder erlittenen Verletzung sofort außer Gefecht gesetzt (betäubt/tot/handlungsunfähig je nach Art). **Kolonie:** gemischte Föderationskolonie auf Jateran II; die NSCs haben **individuelle Spezies** **[Annahme]**. Kanonische Speziesmodifikatoren sind hier nicht separat ausgewiesen; Attribute als spielpraktische Basisverteilung 9/9/8/8/7/7 **[Annahme]**.
 
 ### 3.1 Isha Renn — Kolonistische Comms-Kontaktperson
 
@@ -84,11 +90,12 @@
 - **Weiß nicht:**
   - Ursache der Pulse/Entität, Herkunft der Resonanz, tholianische Absichten.
   - Ob/wie ein Austritt technisch sicher gelenkt werden kann.
-- **STA 2e leichtgewichtig (Ideen):**
-  - **Traits:** *Jateran-Kolonistin*, *Erschöpfte Comms-Koordinatorin*, *Pflichtbewusst unter Druck*
-  - **Value (falls Notable):** *„Ruhe ist Schutz, solange ich sie vermitteln kann.“* **[Annahme]**
-  - **Foci:** *Krisenkommunikation*, *Lokale Lageeinschätzung*, *Zivile Koordination* **[Annahme]**
-  - **Einsatz im Spiel:** liefert Rhythmus-/Belastungsbild ohne technische Deutung.
+- **STA 2e (Minor NPC):** Mensch **[Annahme]**; **Personal Threat 0**, **Protection 0** (kein Stress-Track; bei jeder Verletzung sofort außer Gefecht).
+  - **Attributes:** Control 09, Fitness 07, Presence 09, Daring 07, Insight 08, Reason 08
+  - **Departments:** Command 02, Conn 01, Engineering 00, Security 00, Medicine 00, Science 01
+  - **Traits:** *Mensch* **[Annahme]**, *Jateran-Kolonistin*, *Erschöpfte Comms-Koordinatorin*, *Pflichtbewusst unter Druck*
+  - **Special Rule:** **Familiarity (Krisenkommunikation & zivile Lageupdates):** Bei Aufgaben zur Koordination/Weitergabe von Lageinformationen in der Kolonie sinkt die Schwierigkeit um 2 (Minimum 0).
+  - **Einsatz im Spiel:** liefert Rhythmus-/Belastungsbild ohne technische Deutung (keine mechanischen Values/Foci).
 - **Zuordnung zu Hinweisen:**
   - **Erdbeben-Schübe / Frequenzgefühl:** Primärsprecherin für Kolonie-Call „Es kommt in Schüben…“ (Szene 3, C1b).
 
@@ -104,11 +111,12 @@
 - **Weiß nicht:**
   - Ob Resonanz Material „freisetzt“ oder „umwandelt“; keine gesicherte Erklärung der Dilithium-Spuren.
   - Was die T’Laru will; ob Kontakt sicher ist.
-- **STA 2e leichtgewichtig (Ideen):**
-  - **Traits:** *Bergbauleitung Jateran*, *Sicherheitsorientierter Pragmatiker*, *Kennt die Stollen wie seine Westentasche*
-  - **Value (falls Notable):** *„Kein Förderziel ist ein Leben wert.“* **[Annahme]**
-  - **Foci:** *Bergbausicherheit*, *Infrastruktur & Schachtlogistik*, *Risikobewertung unter Zeitdruck* **[Annahme]**
-  - **Einsatz im Spiel:** verankert Risiko/Handlungsdruck in konkreten Maßnahmen (Räumung, Sperrzonen).
+- **STA 2e (Minor NPC):** Tellarit **[Annahme]**; **Personal Threat 0**, **Protection 0** (kein Stress-Track; bei jeder Verletzung sofort außer Gefecht).
+  - **Attributes:** Control 09, Fitness 09, Presence 07, Daring 08, Insight 08, Reason 07
+  - **Departments:** Command 00, Conn 01, Engineering 02, Security 01, Medicine 00, Science 00
+  - **Traits:** *Tellarit* **[Annahme]**, *Bergbauleitung Jateran*, *Sicherheitsorientierter Pragmatiker*, *Kennt die Stollen wie seine Westentasche*
+  - **Special Rule:** **Familiarity (Stollen, Schächte & Betriebsinfrastruktur):** Bei Aufgaben zu lokalen Anlagen, Sperrzonen oder Schachtlogistik sinkt die Schwierigkeit um 2 (Minimum 0).
+  - **Einsatz im Spiel:** verankert Risiko/Handlungsdruck in konkreten Maßnahmen (Räumung, Sperrzonen; keine mechanischen Values/Foci).
 - **Zuordnung zu Hinweisen:**
   - **Stollen geräumt / Risiko:** Primärsprecher für „Wir haben die Stollen geräumt…“ (Szene 3).
   - **Sekundär:** kann auf Nähe von Förderzonen zu aktiven Adern hinweisen (ohne Kausalbehauptung).
@@ -125,11 +133,12 @@
 - **Weiß nicht:**
   - Ob eine biologische Gefährdung durch die Entität real wird; kann nur als **Risiko-Szenario** mitdenken (nicht bestätigen).
   - Technische Details von Resonanzkopplung/Ködersignal.
-- **STA 2e leichtgewichtig (Ideen):**
-  - **Traits:** *Medizinisch-technische Liaison*, *Ruhig unter Alarmbedingungen*, *Schützt die Schwächsten zuerst*
-  - **Value (falls Notable):** *„Leben bewahren heißt, früh zu handeln.“* **[Annahme]**
-  - **Foci:** *Triage & Notfallkoordination*, *Zivilschutz/Medizinlogistik*, *Stressreaktionen in Krisen* **[Annahme]**
-  - **Einsatz im Spiel:** verstärkt Dringlichkeit/Kolonieperspektive; unterstützt, aber ersetzt nicht Dr. Zenn Irals Pflicht-Einwand zur potenziellen Kohlenstoff-Nahrungsgefahr (der bleibt ein Crew-/Berater-Beat laut Leitfaden).
+- **STA 2e (Minor NPC):** Trill **[Annahme]**; **Personal Threat 0**, **Protection 0** (kein Stress-Track; bei jeder Verletzung sofort außer Gefecht).
+  - **Attributes:** Control 09, Fitness 07, Presence 08, Daring 07, Insight 09, Reason 08
+  - **Departments:** Command 01, Conn 00, Engineering 00, Security 00, Medicine 02, Science 01
+  - **Traits:** *Trill* **[Annahme]**, *Medizinisch-technische Liaison*, *Ruhig unter Alarmbedingungen*, *Schützt die Schwächsten zuerst*
+  - **Special Rule:** **Familiarity (Triage & medizinische Notfalllogistik):** Bei Aufgaben zu Erstversorgung, Evakuierungsprioritäten oder Kolonie-Sanitätskoordination sinkt die Schwierigkeit um 2 (Minimum 0).
+  - **Einsatz im Spiel:** verstärkt Dringlichkeit/Kolonieperspektive; unterstützt, aber ersetzt nicht Dr. Zenn Irals Pflicht-Einwand zur potenziellen Kohlenstoff-Nahrungsgefahr (keine mechanischen Values/Foci).
 - **Zuordnung zu Hinweisen:**
   - **Risiko (indirekt):** kann Versorgungs-/Evakuierungsfolgen der Beben-Schübe und möglicher Oberflächengefährdung benennen.
   - **Kooperation:** geeignete Ansprechperson, wenn Hamilton-Team medizinisch-logistische Nebenbedingungen für Köder/Umleitung abklärt.
@@ -184,8 +193,8 @@ T’Muk erkennt oder gestaltet Bedingungen, unter denen neues Leben sicher „an
 ## 6. Kurzliste offener Detailfragen (für späteres Grilling)
 
 1. **Jateran-System (Namen/Feinschliff):** Sollen die **[Annahme]**-Namen (Jateran Prime, Orbitnummern, „Narbenfeld“, Siedlungsknoten) kanonisch fixiert oder umbenannt werden?
-2. **Kolonie-Spezies & Kulturton:** Welche bekannte Spezies bewohnt Jateran, und wie stark soll lokaler Kulturflavor in Dialogen sichtbar werden (ohne Politikplot)?
-3. **NSC-Tiefe & Stat-Niveau:** Sollen Isha Renn, Darek Solin, Dr. Vey Tal als **Minor** oder **Notable** geführt werden? Benötigen sie ausgearbeitete Werte/Attribute/Personal Threat für den Abend?
+2. **Kolonie-Spezies & Kulturton:** Kolonie ist als **gemischte Föderationskolonie** gesetzt; Jateran-NSCs haben individuelle Spezies (Isha Renn: Mensch, Darek Solin: Tellarit, Dr. Vey Tal: Trill, je **[Annahme]**). Offen: wie stark lokaler Kulturflavor in Dialogen sichtbar werden soll (ohne Politikplot)?
+3. **NSC-Tiefe & Stat-Niveau:** Isha Renn, Darek Solin, Dr. Vey Tal sind als **Minor NPCs** mit Basiswerten/Departments/Special Rules geführt. Offen: feinere Abstimmung/Ergänzungen für den Abend nötig?
 4. **Blackwater-Formulierung:** Reicht der Comms-Auszug in Ton/Länge, oder soll Blackwater persönlicher/strenger/konkreter klingen (bei gleichbleibender Informationslücke)?
 5. **Nursery-Sensorbild (Szenen 5–6):** Welche konkrete Wahrnehmung ist final erwünscht (harmonische Resonanz, vegetative Biosignatur-Bänder, visuelles/akustisches Echo) — und wie „mysteriös“ soll die Beschreibung bleiben?
 6. **Vozrax-Wortlaut & Eskalation:** Exakter Comms-Text in Szene 4 und klare Schwelle, ab wann T’Laru von Drohpräsenz zu aktiver Geste (Warnsignal/Waffenaufschaltung) übergeht?
@@ -194,5 +203,42 @@ T’Muk erkennt oder gestaltet Bedingungen, unter denen neues Leben sicher „an
 
 ---
 
-*Ausgelassen (bewusst):* vollständige STA-2e-Statblocks, konkrete Würfel-/Extended-Task-Parameter jenseits Leitfadenreferenzen, finale Vozrax-Zitate, politisches Innenleben der Kolonie, Auflösung der Entität/Nursery.  
+*Ausgelassen (bewusst):* konkrete Würfel-/Extended-Task-Parameter jenseits Leitfadenreferenzen, finale Vozrax-Zitate, politisches Innenleben der Kolonie, Auflösung der Entität/Nursery. (Vorschlags-Statblocks für Vozrax/T’Laru sind in Abschnitt 7 ergänzt; Kalibrierung offen.)  
 *Risiko/Abhängigkeit:* Details zu Szenen 4–6 (Vozrax-Wortlaut, Nursery-Sensorbild, regelmechanische Ausarbeitung des Ködersignals) sollten nach Regelbausteinen/Abnahme nachgeschärft werden; Annahmen sind dafür bewusst markiert.
+
+---
+
+## 7. T’Laru & Captain Vozrax (Stats, Vorschlag)
+
+> **[Vorschlag, nicht repo-kanonisch belegt]** Spielpraktische STA-2e-Werte für den One-Shot; an Leitfaden-Verhalten angepasst und bei Bedarf kalibrieren.
+
+### Captain Vozrax (Tholian, T’Laru)
+
+| Feld | Vorschlag |
+|---|---|
+| **Typ** | Major NPC, Tholian, Captain (T’Laru) |
+| **Attributes** | Control 11, Daring 9, Fitness 8, Insight 10, Presence 10, Reason 11 |
+| **Disciplines** | Command 4, Conn 2, Engineering 2, Medicine 1, Science 3, Security 3 |
+| **Value** | *„Der Zyklus des Unnennbaren darf nicht gebrochen werden.“* **[Vorschlag]** |
+| **Focuses** | *Tholianisches Kommando & Protokoll*, *Kristalline/Subraum-Resonanzen* **[Annahme]**, *Abschirmung und Distanzführung* **[Vorschlag]** |
+| **Traits** | *Tholianischer Captain*, *Kristalline Physiologie / hitzetolerant* **[Annahme]**, *Hüter auf Abstand*, *Assembler (Vozrax, Föderationsübersetzung)*, *Schwer deutbare Zeit-/Sinnlogik* |
+| **Personal Threat** | 6 (zu Beginn jeder Szene vollständig) |
+| **Stress** | kein Stress-Track (NPC); Injury-Vermeidung durch Personal Threat gemäß Major-NPC-Regeln (Kosten = Schwere) |
+| **Eskalation (optional, 1 Threat)** | *Waffenaufschaltung als Warnsignal* / *Netz- oder Abfangdrohung* (nur Geste/Druck, passend E1–E3) |
+
+**Verhalten (gesetzt):** drohend, aber auf Abstand; schützt die „Geburt“; prüft Haltung/Kompetenz atmosphärisch; keine offenen Verhandlungen; Motive/Geheimwissen nicht offenbaren.
+
+### T’Laru (Tholianisches Schiff)
+
+| Feld | Vorschlag |
+|---|---|
+| **Typ** | NPC-Raumschiff, Tholian Dreadnought (*T’Laru*, Adaption) |
+| **Scale** | 5 **[Vorschlag]** |
+| **Systems** | Comms 9, Computers 10, Engines 9, Sensors 10, Structure 11, Weapons 11 **[Vorschlag]** |
+| **Crew Quality** | **Talented** (Attribute 10, Departments 3) **[Vorschlag]** — alternativ **Proficient** (9/2) für geringeren Druck |
+| **Shields** | Structure + Scale + Security (Crew) → bei Talented/Sec 3: **19** (Richtwert) |
+| **Resistance** | ⌈Scale/2⌉ + Structure-Bonus (typ. 3–5) **[Vorschlag, am Tisch festlegen]** |
+| **Weapons (Beispiele)** | *Energiewaffen-Array* (Energie, Reichweite nach SL), *tholianische Netz-/Einfangkapazität* als narratives/regeltechnisches Merkmal **[Annahme]** |
+| **Traits** | *Tholianischer Dreadnought*, *Kristallin-resonante Hülle* **[Annahme]**, *Bedrohliche Fernpräsenz*, *Schutzschirm um das Unnennbare* **[Vorschlag]** |
+
+**Hinweis:** Für moderaten One-Shot-Druck reichen Präsenz und E2-Gesten; volle Waffenprofile nur bei E3.

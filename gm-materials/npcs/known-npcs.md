@@ -10,10 +10,10 @@
 ## 1) Muss für Adaption: Cetacean Ops officer
 - **Prinzip 6:** „Must include the **Cetacean Ops officer**.“
 - **Befund:** Im Hamilton-Repo und in den eingelesenen CSVs zuvor nicht namentlich belegt.
-- **Festgelegt (2026-11-17):** **Lt. Maren** (Delphin, Cetacean Ops, **Navigation/Science-Support**). **Formelle Wortwahl, melodische Stimme**. Nimmt wegen seiner Größe nur bedingt am Crew-Alltag teil.
+- **Festgelegt (2026-11-17, Major NPC):** **Lt. Maren** (Cetacean/Delphin **[Annahme]**, Cetacean Ops, **Navigation/Science-Support**). **Formelle Wortwahl, melodische Stimme**. Nimmt wegen seiner Größe nur bedingt am Crew-Alltag teil.
 - **Pflichtpräsenz / Funktion:** Backup bei Puls-/Resonanzdeutung — **primäre Erkennung** nach Möglichkeit bei **T'Muk** oder **Alpha-Crew**; Maren liefert bei Bedarf den dokumentierten Hinweis (z. B. Muster/Verkürzung der „Wehen“-Pulse, Resonanzfenster).
 - **Szenenmoment (Babyparty-Kontext):** **Gi’ral** möchte in der Schwangerschaft plötzlich schwimmen gehen und sucht Wasser/Ruhe im Cetacean-Ops-/Tankbereich. Maren begegnet ihr ruhig, bietet Raum/Beobachtung (formell, melodisch; leiser Charaktermoment).
-- **Noch offen:** Feintuning konkreter Taktung/Dialogzeilen, ggf. kurze Values/Foci nur wenn spielrelevant.
+- **STA 2e (Major NPC, Vorschlag [Annahme]):** **Personal Threat 6** (Szenenbeginn voll). **Attributes:** Control 10, Daring 8, Fitness 9, Insight 12, Presence 10, Reason 11. **Disciplines:** Command 2, Conn 4, Engineering 1, Medicine 1, Science 4, Security 1. **Value:** *„Klarheit entsteht, wenn man dem Muster Zeit lässt.“* **Focuses:** *Subraum-/Resonanzmuster*, *Navigation & Sensorunterstützung*, *Cetacean Operations* **[Annahme]**. **Traits:** *Cetacean (Delphin)* **[Annahme]**, *Formelle, melodische Ausdrucksweise*, *Präzise Beobachterin/Beobachter*, *Cetacean-Ops-Spezialist:in*. **Stress:** kein Stress-Track (NPC); Injury-Vermeidung per Personal Threat (Major-NPC-Regel). **Einsatz:** liefert bei Bedarf ruhige, datennahe Hinweise (Backup), keine Lösungsübernahme.
 
 ## 2) Bekannte Hamilton-/Missions-nahe NSCs (bestehend/etabliert im Material)
 | Name | Rolle/Kontext | Quelle | Einordnung |
@@ -22,7 +22,7 @@
 | **Zhara ch'Thari** | Andorian Support/Operations (CSV), aktiv in Iral-Log | CSV, `dr_iral.html` | bestehend |
 | **Dr. Ethan Carter** | Human Support, Science Officer (CSV), aktiv in Iral-Log | CSV, `dr_iral.html` | bestehend |
 | **Ozyrrian 'Ozzy' th'Arilith** | Andorian CPO, Security (CSV), aktiv in Iral-Log | CSV, `dr_iral.html` | bestehend |
-| **Vrok zh'Daar** | Tellarite Security Officer (CSV), temporäres Kommando | CSV, `dr_iral.html` | bestehend |
+| **Lt. Bravok, Sohn des Skarn** | Tellarit **[erfundener Name, Annahme]**, kommissarischer Sicherheitschef / Ersatz für **Mendox** (Lt.); Profil & Basiswerte übernommen von **Vrok zh'Daar** (Support, Security Officer, CSV: C10 F10 P8 D10 I8 R8; Com 3 Sec 4 Sci 1 Con 2 Eng 1 Med 2; *Sturdy*, Foci *Shipboard Tactical Systems, Environmental Tactics, Shield systems*). **STA 2e Major NPC (Vorschlag):** Personal Threat 6, **Value** *„Preparedness is key“* **[übernommen/adaptiert]**, **Focuses** *Shipboard Tactical Systems*, *Environmental Tactics*, *Shield Systems*, **Traits** *Tellarit*, *Kommissarischer Sicherheitschef (USS Hamilton)*, *Sturdy* **[Annahme]**, *Direkt, wachsam, verlässlich*. Kein Stress-Track (NPC). | CSV (Vrok zh'Daar), `dr_iral.html` | bestehend/adaptiert |
 | **Marlin Vionn** | Trill Science Officer (CSV), Virus-/Laborunterstützung erwähnt | CSV, `yorin_jaela.html` | bestehend |
 | **Janice Randall** | Yeoman/Adjutant Captain (CSV, Scenario „Crew“) | CSV | bestehend (Hintergrund) |
 | **James Hawkins** | Flight Controller, Ensign (CSV, Scenario „Crew“) | CSV | bestehend (Hintergrund) |

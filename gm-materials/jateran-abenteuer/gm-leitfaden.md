@@ -20,8 +20,9 @@
 ### Tisch-Setup
 - **Spielercharaktere (nicht als Hinweis-Sprecher einsetzen):** **Malax** (Captain), **Dr. T’Laar** (CMO), **Yorin Jaela** (Chief of Operations/Science), **T’Muk** (Chief Engineer).
 - **SL-Rolle:** **Cmdr. Robert Knox** (First Officer, spielbar).
-- **Abwesend:** **Mendox** (Security Chief, Pause).
-- **Pflicht-NSC:** **Lt. Maren** (Delphin, Cetacean Ops Navigation/Science-Support, formelle Wortwahl, **melodische Stimme**). Backup-Hinweis bei Pulsdeutung nur falls T’Muk/Alpha-Crew nicht erkennen.
+- **Abwesend:** **Mendox** (Security Chief, Pause). **Kommissarischer Sicherheitschef (Lt., Ersatz):** **Lt. Bravok, Sohn des Skarn** (Tellarit, **Major NPC**, Profil/Stats basierend auf Vrok zh'Daar; siehe `../npcs/known-npcs.md`).
+- **Pflicht-NSC:** **Lt. Maren** (Delphin, Cetacean Ops Navigation/Science-Support, formelle Wortwahl, **melodische Stimme**, **Major NPC**; siehe `../npcs/known-npcs.md`). Backup-Hinweis bei Pulsdeutung nur falls T’Muk/Alpha-Crew nicht erkennen.
+- **Mission Directives (STA 2e):** 1) *„Schutz der Bevölkerung auf Jateran (Jateran II).“* 2) *„Friedliche Kontaktaufnahme mit Tholianern.“* (siehe `setting-nscs-und-dynamik.md`).
 
 ### Bestehende NSCs (Hamilton/CSV, für Sprecher & Szenenleben — keine Spieler)
 | NSC | Rolle | Quelle | Einsatzidee |
@@ -33,10 +34,11 @@
 | **Dr. Ethan Carter** | Human, Science Officer | Logs/known-npcs | wissenschaftliche Muster/Scan-Hinweise |
 | **Marlin Vionn** | Trill, Science Officer | Logs/known-npcs | Resonanz-/Datenanalyse (falls anwesend) |
 | **Ozyrrian 'Ozzy' th'Arilith** | Andorian CPO, Security | Logs/known-npcs | Sicherheitslage, Evakuierungsdenken (Hintergrund) |
+| **Lt. Bravok, Sohn des Skarn** | Tellarit, kommissarischer Sicherheitschef (Ersatz Mendox), **Major NPC** | known-npcs (Profilbasis Vrok zh'Daar) | Sicherheitskoordination, Schutzmaßnahmen, Brückenpräsenz |
 | **Admiral Blackwater** | Auftraggeber (extern) | CSV/Logs | Befehlskontext (Log/Comms-Referenz) |
 | **Gi’ral** | Klingonische Sonderbotschafterin, schwanger | Logs/player-wishes | Babyparty, Schwimm-Moment |
 
-> **Neu/zu definieren (für Spielabend):** Jateran **Kolonist:in** (Comms), **Bergbauleitung Jateran** (Comms), ggf. weitere Brückenstimmen. Details/Stats bei Bedarf ergänzen.
+> **Jateran-NSCs (Minor NPCs, gemischte Föderationskolonie auf Jateran II):** Isha Renn (Mensch, Comms), Darek Solin (Tellarit, Bergbau/Infrastruktur), Dr. Vey Tal (Trill, med.-techn. Liaison) — Details/Stats in `setting-nscs-und-dynamik.md`. **Vozrax (Tholian, Captain T’Laru): Major NPC** — Vorschlags-Stats in `setting-nscs-und-dynamik.md` Abschnitt 7.
 
 ---
 
@@ -252,9 +254,10 @@
 | Zwei parallele Extended Tasks (Parameter) | bereit (B3) | Szene 5 |
 | Nursery: Class L, flora-dominant, kein intelligentes Leben, mysteriös | bereit (akzeptiert) | Deckblatt, Szene 6 |
 | T’Laru drohend auf Abstand; T’Laru vor Geburt; Vozrax will T’Muk prüfen; Malax temporal-cold-war-Wissen (GM) | bereit | Szene 4 + Geheimwissen |
-| Cetacean Ops **Lt. Maren** inkl. Backup-Rolle | bereit | Deckblatt, Szenen 2/3/5 |
+| Cetacean Ops **Lt. Maren** inkl. Backup-Rolle (**Major NPC**) | bereit | Deckblatt, Szenen 2/3/5, known-npcs |
+| Kommissarischer Sicherheitschef **Lt. Bravok, Sohn des Skarn** (Ersatz Mendox, **Major NPC**, Profilbasis Vrok zh'Daar) | bereit | Deckblatt, NSC-Tabelle, known-npcs |
 | Bestehende NSCs identifiziert (Randall, Hawkins u. a.) | bereit | NSC-Tabelle |
-| Jateran-NPCs, Jateran-System-Details, Blackwater-Briefing-Kontext, soziale Dynamik | **Entwurf vorhanden** | `setting-nscs-und-dynamik.md` erstellt (System, Blackwater-Briefing, 3 Jateran-NSCs, Dynamik-Beats) — prüfen/integrieren |
+| Jateran-NPCs, Jateran-System-Details, Blackwater-Briefing-Kontext, soziale Dynamik | **integriert/aktualisiert** | `setting-nscs-und-dynamik.md` (Jateran II, gemischte Föderationskolonie, 3 Minor-NSCs mit individuellen Spezies, Mission Directives, Dynamik-Beats); Prüfung/Feinschliff offen |
 | STA 2e Tasks/Traits/Stats, Scientific Method (Exploration Guide Ch. 01) | **teilbereit** | `regel-bausteine.md` erstellt (Tasks, Extended Tasks, Ködersignal-Varianten, Complications/Momentum/Threat, NSC-Vorlagen) — Scientific Method **nur Punkt 1** (Szene 3) vorgesehen, Integration offen |
 | T’Muk-Plotline | **festgelegt** (nur „Die Wiege aus dem Nichts“, keine direkten Trigger) | Abschnitt 3 |
 | Knox-Log final abgenommen | **Entwurf fertig** | Szene 1 |
@@ -269,5 +272,5 @@
 5. **Regelbasierte Bausteine (Entwürfe vorhanden):** `regel-bausteine.md` und `setting-nscs-und-dynamik.md` liegen vor — Fachprüfung und gezielte Integration in den Leitfaden offen.
 6. **Scientific Method (Exploration Guide Ch. 01):** **nur für Punkt 1** einsetzen (Szene 3, Pulsrätsel/Hypothesenschleife: Observe → Obtain Information → Hypothese 1×/Szene → Test). Keine Anwendung auf „Eine Wiege finden“/ET2/Ködersignal als Hypothesentest. Integration in Bausteine/Leitfaden nach Abnahme.
 
-*Was ausgelassen/geändert:* „Bassengraben nahe der romulanischen Grenze“ aus Vorgabe übernommen (Bezeichnung ggf. angleichen). Scientific-Method-Regeln stehen noch aus.  
+*Was ausgelassen/geändert:* „Bassengraben nahe der romulanischen Grenze“ aus Vorgabe übernommen (Bezeichnung ggf. angleichen). Jateran-Kolonie als **gemischte Föderationskolonie auf Jateran II** geführt (Details in `setting-nscs-und-dynamik.md`). **Vozrax** als **Major NPC** (Vorschlags-Stats in `setting-nscs-und-dynamik.md` Abschnitt 7). Lt. Maren und Lt. Bravok als **Major NPCs** (siehe `known-npcs.md`). Scientific-Method-Integration (nur Szene 3) steht noch aus.  
 *Risiko:* Bis regelbasierte Bausteine integriert und Vozrax-Wortlaut/Nursery-Sensorbild final sind, bleiben Details in Szenen 4–6 noch anpassbar.
